@@ -1,0 +1,43 @@
+import os
+import re
+from openai import OpenAI
+
+def update_readme_with_quote():
+    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+    
+    # Generate a funny quote
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[{
+            "role": "user", 
+            "content": "Generate a short, funny, witty quote about programming, technology, or developer life. Keep it under 100 characters and make it clever or humorous."
+        }],
+        max_tokens=50
+    )
+    
+    quote = response.choices[0].message.content.strip().strip('"')
+    quote_section = f'💬 **Daily Dev Quote**\n> "{quote}" - ChatGPT'
+    
+    # Read current README
+    with open('README.md', 'r') as f:
+        content = f.read()
+    
+    # Replace or add quote section
+    quote_pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
+    new_quote = f'<!-- QUOTE_START -->\n{quote_section}\n<!-- QUOTE_END -->'
+    
+    if '<!-- QUOTE_START -->' in content:
+        content = re.sub(quote_pattern, new_quote, content, flags=re.DOTALL)
+    else:
+        # Add after F1 countdown
+        f1_end = content.find('<!-- F1_COUNTDOWN_END -->')
+        if f1_end != -1:
+            insert_pos = content.find('\n', f1_end) + 1
+            content = content[:insert_pos] + '\n' + new_quote + '\n' + content[insert_pos:]
+    
+    # Write updated README
+    with open('README.md', 'w') as f:
+        f.write(content)
+
+if __name__ == "__main__":
+    update_readme_with_quote()

@@ -5,6 +5,11 @@
 🌍 Melbourne, Australia
 <!-- F1_COUNTDOWN_END -->
 
+<!-- QUOTE_START -->
+💬 **Daily Dev Quote**
+> "Code never lies, comments sometimes do." - ChatGPT
+<!-- QUOTE_END -->
+
 ## Hi there 👋
 
 I'm Saagar, a developer who loves Formula 1! 🏁
