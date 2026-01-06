@@ -7,7 +7,7 @@
 
 <!-- QUOTE_START -->
 💬 **Daily Dev Quote**
-> "I asked a programmer to help me with my broken computer. He said "Have you tried turning it off and on again?" So I punched him in the face." - ChatGPT
+> "I'm not anti-social, I'm just async by nature. #TechLife" - ChatGPT
 <!-- QUOTE_END -->
 
 ## Hi there 👋
