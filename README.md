@@ -2,7 +2,7 @@
 
 **Currently: 4th-year Computer Science student @ McMaster University**  
 
-Previously:  Fixed leaky data pipelines, shipped digital products @ Scotiabank, and created system architecture diagrams that now preserved as historical artifacts @ Amazon
+Previously:  Fixed leaky data pipelines, shipped digital products @ Scotiabank, and created system architecture diagrams that are now preserved as historical artifacts @ Amazon
 
 ---
 
