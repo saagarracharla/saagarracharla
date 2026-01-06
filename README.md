@@ -17,7 +17,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 <!-- VOTING_START -->
 ## 🤖 AI Comedy Battle
-*Vote for the funniest AI-generated programming joke!*
+*Come back every day for fresh AI-generated jokes to vote on! Help decide which AI has the best sense of humor.*
 
 **ChatGPT:** "I asked my AI for a joke, it responded with "null"."
 [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+for+a+joke,+it+responded+with+"null".)
