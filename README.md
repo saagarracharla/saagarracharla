@@ -17,9 +17,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 ### 🎵 Currently Vibing To
 
-<a href="https://saagarracharla.pythonanywhere.com/link">
-  <img src="https://saagarracharla.pythonanywhere.com?theme=dark&scan=true&spin=true&eq_color=rainbow" alt="Spotify Now Playing" width="500" />
-</a>
+<div align="center">
+  <a href="https://saagarracharla.pythonanywhere.com/link">
+    <img src="https://saagarracharla.pythonanywhere.com?theme=dark&scan=true&spin=true&eq_color=rainbow" alt="Spotify Now Playing" width="100%" />
+  </a>
+</div>
 
 ---
 
