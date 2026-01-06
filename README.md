@@ -1,11 +1,13 @@
+## Hi there 👋
+
+I'm Saagar, a Computer Science student at McMaster University and aspiring software engineer! Currently working as a Solution Architect Intern at AWS and previously at Scotiabank as a Data Engineering Intern. I love building cool projects, automating workflows, and solving complex problems with code.
+
 <!-- QUOTE_START -->
 # 💬 **Daily Dev Quote**
 *Come back every day for a fresh dose of programming humor to keep you sane during merge conflicts!*
 
 ## > **"I told a UDP joke, but you might not get it." - ChatGPT**
 <!-- QUOTE_END -->
-
-## Hi there 👋
 
 I'm Saagar, a developer who loves Formula 1! 🏁
 
