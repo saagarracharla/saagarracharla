@@ -15,6 +15,28 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 ---
 
+<!-- VOTING_START -->
+## 🤖 AI Comedy Battle
+*Vote for the funniest AI-generated programming joke!*
+
+**ChatGPT:** "Why do programmers prefer dark mode? Because light attracts bugs!"
+[👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Why+do+programmers+prefer+dark+mode?+Because+light+attracts+bugs!)
+
+**Claude:** "I told my computer a joke about UDP. It didn't get it."
+[👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I+told+my+computer+a+joke+about+UDP.+It+didn't+get+it.)
+
+**Gemini:** "There are only 10 types of people: those who understand binary and those who don't."
+[👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There+are+only+10+types+of+people:+those+who+understand+binary+and+those+who+don't.)
+
+### 🏆 AI Leaderboard
+**ChatGPT:** 0 votes, 0 daily wins
+**Claude:** 0 votes, 0 daily wins
+**Gemini:** 0 votes, 0 daily wins
+
+<!-- VOTING_END -->
+
+---
+
 ### 🎵 Currently Vibing To
 
 <div align="center">
