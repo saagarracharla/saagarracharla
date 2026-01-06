@@ -11,7 +11,7 @@ def update_readme_with_quote():
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user", 
-                "content": "Generate a super creative, witty, and hilarious quote about programming, coding, or tech life. Be clever, punny, or absurdly funny. Keep it clean, wholesome, positive, and under 100 characters. No violence, aggression, or negativity. Think clever wordplay and programming puns."
+                "content": "You are a professional comedy writer who also happens to be a senior software engineer.\n\nYour task:\nGenerate exactly ONE ultra-funny, clever, punchy programming quote.\n\nHard rules (must follow all):\n- Under 100 characters total\n- One single line only\n- About programming, software engineering, tech life, or AI\n- Must be witty, ironic, or absurdly clever — NOT motivational or inspirational\n- Use real developer concepts (bugs, Git, APIs, semicolons, Stack Overflow, coffee, prod, AI, etc.)\n- Clean, wholesome, and positive\n- Absolutely NO racism, sexism, sexual content, political content, hate, harassment, slurs, or offensive language\n- No violence, aggression, or negativity\n- No emojis\n- No hashtags\n- No explanations\n- No quotes around the text\n- No attribution\n- No repetition of common clichés\n\nComedy quality rules:\n- Prefer wordplay, irony, or inside jokes over slapstick\n- Should make a developer smirk or laugh, not groan\n- If the result is not genuinely funny, rewrite it until it is\n\nOutput format:\nReturn ONLY the quote text and nothing else."
             }],
             max_tokens=50
         )
