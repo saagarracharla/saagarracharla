@@ -1,27 +1,37 @@
-## Hi there 👋
+## Hi there, I'm Saagar 👋
 
-I'm Saagar, a Computer Science student at McMaster University and aspiring software engineer! Currently working as a Solution Architect Intern at AWS and previously at Scotiabank as a Data Engineering Intern. I love building cool projects, automating workflows, and solving complex problems with code.
+Computer Science student at McMaster University with a passion for building scalable solutions and automating complex workflows. Currently architecting cloud solutions at AWS and previously engineered data pipelines at Scotiabank.
+
+---
 
 <!-- QUOTE_START -->
-# 💬 **Daily Dev Quote**
-*Come back every day for a fresh dose of programming humor to keep you sane during merge conflicts!*
+### 💬 Daily Dev Quote
+*Fresh programming humor delivered daily — because we all need a laugh between merge conflicts*
 
-## > **"I told a UDP joke, but you might not get it." - ChatGPT**
+> **"I told a UDP joke, but you might not get it." — ChatGPT**
 <!-- QUOTE_END -->
 
-I'm Saagar, a developer who loves Formula 1! 🏁
+---
 
-### 🔭 Currently working on
-- Building cool GitHub profile features
-- Learning automation with GitHub Actions
+### 🚀 What I'm Building
+- **AI-powered systems** using Amazon Bedrock for dynamic customer personas
+- **GitHub profile automation** with daily quote generation
+- **Full-stack applications** combining modern frameworks with cloud infrastructure
 
-### 🏎️ F1 Fan
-- Following the championship closely
-- Building F1-themed projects
+### 💼 Experience
+**Solution Architect Intern** @ AWS  
+**Data Engineering Intern** @ Scotiabank  
+*Specialized in cloud architecture, data pipelines, and performance optimization*
 
-### 📫 How to reach me
-- GitHub: You're already here!
+### 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, SQL, C  
+**Cloud & Tools:** AWS, GCP, Docker, Git  
+**Frameworks:** React, Node.js, Flask
 
-<!--
-**saagarracharla/saagarracharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 📫 Let's Connect
+- **LinkedIn:** [saagarrac](https://linkedin.com/in/saagarrac)
+- **Email:** saagar.racharla@gmail.com
+
+---
+
+*Building the future, one commit at a time.*
