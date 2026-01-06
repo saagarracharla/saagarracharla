@@ -1,5 +1,7 @@
 <!-- QUOTE_START -->
 # 💬 **Daily Dev Quote**
+*Come back every day for a fresh dose of programming humor to keep you sane during merge conflicts!*
+
 ## > **"I told a UDP joke, but you might not get it." - ChatGPT**
 <!-- QUOTE_END -->
 

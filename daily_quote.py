@@ -17,7 +17,7 @@ def update_readme_with_quote():
         )
         
         quote = response.choices[0].message.content.strip().strip('"')
-        quote_section = f'# 💬 **Daily Dev Quote**\n## > **"{quote}" - ChatGPT**'
+        quote_section = f'# 💬 **Daily Dev Quote**\n*Come back every day for a fresh dose of programming humor to keep you sane during merge conflicts!*\n\n## > **"{quote}" - ChatGPT**'
         
         # Read current README
         with open('README.md', 'r') as f:
