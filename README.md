@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Saagar
 
 **4th-year Computer Science student at McMaster University**  
-Previously fixed leaky data pipelines, shipped digital products at Scotiabank,  
-and created AWS architecture diagrams now preserved as historical artifacts.
+Previously fixed leaky data pipelines, shipped digital products at Scotiabank, and created AWS architecture diagrams now preserved as historical artifacts.
 
 ---
 
@@ -10,8 +9,7 @@ and created AWS architecture diagrams now preserved as historical artifacts.
 ### 💬 Daily Dev Quote
 _Fresh programming humor delivered daily — because we all need a laugh between merge conflicts_
 
-> **I told a UDP joke, but you might not get it.**  
-> — ChatGPT
+> **I told a UDP joke, but you might not get it.**  — ChatGPT
 <!-- QUOTE_END -->
 
 ---
