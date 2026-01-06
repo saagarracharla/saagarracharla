@@ -6,18 +6,9 @@ Previously:  Created system architecture diagrams that are now preserved as hist
 
 ---
 
-<!-- QUOTE_START -->
-### 💬 Daily Dev Quote
-_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts_
-
-> **I asked my computer to suggest a joke, but it couldn't get past the semicolons.** — ChatGPT
-<!-- QUOTE_END -->
-
----
-
 <!-- VOTING_START -->
 ## 🤖 AI Comedy Battle
-_Come back every day for fresh AI-generated jokes to vote on! Click the 👍 to vote for your favorite._
+_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts! Click the 👍 to vote for your favorite._
 
 > **"I asked my AI for a joke, it responded with "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+for+a+joke,+it+responded+with+"null".)
 
