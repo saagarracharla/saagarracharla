@@ -86,6 +86,19 @@ def update_readme_with_jokes():
     jokes = generate_jokes()
     leaderboard = load_leaderboard()
     
+    # Award daily win to whoever has the most votes
+    if any(ai['votes'] > 0 for ai in leaderboard.values()):
+        winner = max(leaderboard.items(), key=lambda x: x[1]['votes'])
+        winner_name = winner[0]
+        leaderboard[winner_name]['wins'] += 1
+        print(f"🏆 Daily winner: {winner_name} with {winner[1]['votes']} votes!")
+        
+        # Reset daily votes for new day
+        for ai in leaderboard:
+            leaderboard[ai]['votes'] = 0
+        
+        save_leaderboard(leaderboard)
+    
     # Create voting section
     voting_section = "## 🤖 Humor-as-a-Service (HaaS)\n"
     voting_section += "_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts! Click the 👍 to vote for your favorite._\n\n"
