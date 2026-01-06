@@ -10,6 +10,8 @@ Previously:  Created system architecture diagrams that are now preserved as hist
 ## 🤖 Humor-as-a-Service (HaaS)
 _Fresh programming humor delivered daily — because we all need a laugh between merge conflicts! Click the 👍 to vote for your favorite._
 
+**How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
+
 > **"I asked my AI for a joke, it responded with "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+for+a+joke,+it+responded+with+"null".)
 
 > **"Why don't C# and Java get along? They have too many class differences."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Why+don't+C#+and+Java+get+along?+They+have+too+many+class+differences.)
