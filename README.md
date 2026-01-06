@@ -7,7 +7,7 @@
 
 <!-- QUOTE_START -->
 💬 **Daily Dev Quote**
-> "I'm not anti-social, I'm just async by nature. #TechLife" - ChatGPT
+> "I told a UDP joke, but you might not get it." - ChatGPT
 <!-- QUOTE_END -->
 
 ## Hi there 👋
