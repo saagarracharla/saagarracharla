@@ -16,12 +16,13 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 ---
 
 ### 🎵 Currently Vibing To
-```
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-🎧 Light Up Sketchers (10 Hour Loop) - Sketchers Official
-💡 Status: GLOWING | ⚡ Battery: 100% | 👟 Comfort Level: Maximum
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-```
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
+</div>
+
+**🎧 Light Up Sketchers (10 Hour Loop) - Sketchers Official**  
+*Status: GLOWING | Battery: 100% | Comfort Level: Maximum*
 
 ---
 
