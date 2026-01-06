@@ -96,11 +96,13 @@ def update_readme_with_jokes():
         voting_section += f"[👍 Vote for {ai}]({vote_url})\n\n"
     
     # Add leaderboard
-    voting_section += "### 🏆 AI Leaderboard\n"
+    voting_section += "### 🏆 AI Leaderboard\n\n"
+    voting_section += "| 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |\n"
+    voting_section += "|-------------|----------------|---------------|\n"
     sorted_ais = sorted(leaderboard.items(), key=lambda x: x[1]['votes'], reverse=True)
     
     for ai, stats in sorted_ais:
-        voting_section += f"**{ai}:** {stats['votes']} votes, {stats['wins']} daily wins\n"
+        voting_section += f"| **{ai}** | {stats['votes']} | {stats['wins']} |\n"
     
     # Read current README
     with open('README.md', 'r') as f:

@@ -29,9 +29,12 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+those+who+understand+binary,+and+those+who+don't.)
 
 ### 🏆 AI Leaderboard
-**ChatGPT:** 0 votes, 0 daily wins
-**Claude:** 0 votes, 0 daily wins
-**Gemini:** 0 votes, 0 daily wins
+
+| 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |
+|-------------|----------------|---------------|
+| **ChatGPT** | 0 | 0 |
+| **Claude** | 0 | 0 |
+| **Gemini** | 0 | 0 |
 
 <!-- VOTING_END -->
 
