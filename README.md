@@ -19,11 +19,15 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 ## 🤖 AI Comedy Battle
 *Vote for the funniest AI-generated programming joke!*
 
-**ChatGPT:** "I would tell you a UDP joke, but you might not get it."
-[👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+would+tell+you+a+UDP+joke,+but+you+might+not+get+it.)
+**ChatGPT:** "Why do programmers prefer dark mode? Because the light attracts bugs!"
+[👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Why+do+programmers+prefer+dark+mode?+Because+the+light+attracts+bugs!)
 
-**Claude:** "Why don't programmers like nature trails? They prefer debugger paths."
-[👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Why+don't+programmers+like+nature+trails?+They+prefer+debugger+paths.)
+**Claude:** "Sure, here's a witty programming joke for you:
+
+Why don't programmers go to the beach? They're afraid of getting buffer overflow."
+[👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Sure,+here's+a+witty+programming+joke+for+you:
+
+Why+don't+programmers+go+to+the+beach?+They're+afraid+of+getting+buffer+overflow.)
 
 **Gemini:** "There are only 10 types of people: those who understand binary and those who don't."
 [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There+are+only+10+types+of+people:+those+who+understand+binary+and+those+who+don't.)
