@@ -88,11 +88,11 @@ def update_readme_with_jokes():
     
     # Create voting section
     voting_section = "## 🤖 AI Comedy Battle\n"
-    voting_section += "*Come back every day for fresh AI-generated jokes to vote on! Help decide which AI has the best sense of humor.*\n\n"
+    voting_section += "_Come back every day for fresh AI-generated jokes to vote on! Help decide which AI has the best sense of humor._\n\n"
     
     for ai, joke in jokes.items():
         vote_url = f"https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+{ai}&body=I+vote+for+{ai}%21%0A%0AJoke%3A+{joke.replace(' ', '+')}"
-        voting_section += f"**{ai}:** \"{joke}\"\n"
+        voting_section += f"> **{joke}** — {ai}  \n"
         voting_section += f"[👍 Vote for {ai}]({vote_url})\n\n"
     
     # Add leaderboard
