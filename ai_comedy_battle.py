@@ -87,7 +87,7 @@ def update_readme_with_jokes():
     leaderboard = load_leaderboard()
     
     # Create voting section
-    voting_section = "## 🤖 AI Comedy Battle\n"
+    voting_section = "## 🤖 Humor-as-a-Service (HaaS)\n"
     voting_section += "_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts! Click the 👍 to vote for your favorite._\n\n"
     
     for ai, joke in jokes.items():
