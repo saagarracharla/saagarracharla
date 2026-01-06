@@ -10,7 +10,34 @@ def update_readme_with_quote():
         model="gpt-3.5-turbo",
         messages=[{
             "role": "user", 
-            "content": "Generate a super creative, witty, and hilarious quote about programming, coding, or tech life. Be clever, punny, or absurdly funny. Keep it clean, wholesome, positive, and under 100 characters. No violence, aggression, or negativity. Think clever wordplay and programming puns."
+            "content": "You are a professional comedy writer who also happens to be a senior software engineer.
+
+                        Your task:
+                        Generate exactly ONE ultra-funny, clever, punchy programming quote.
+
+                        Hard rules (must follow all):
+                        - Under 100 characters total
+                        - One single line only
+                        - About programming, software engineering, tech life, or AI
+                        - Must be witty, ironic, or absurdly clever — NOT motivational or inspirational
+                        - Use real developer concepts (bugs, Git, APIs, semicolons, Stack Overflow, coffee, prod, AI, etc.)
+                        - Clean, wholesome, and positive
+                        - Absolutely NO racism, sexism, sexual content, political content, hate, harassment, slurs, or offensive language
+                        - No violence, aggression, or negativity
+                        - No emojis
+                        - No hashtags
+                        - No explanations
+                        - No quotes around the text
+                        - No attribution
+                        - No repetition of common clichés
+
+                        Comedy quality rules:
+                        - Prefer wordplay, irony, or inside jokes over slapstick
+                        - Should make a developer smirk or laugh, not groan
+                        - If the result is not genuinely funny, rewrite it until it is
+
+                        Output format:
+                        Return ONLY the quote text and nothing else."
         }],
         max_tokens=50
     )
