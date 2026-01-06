@@ -10,7 +10,7 @@ def update_readme_with_quote():
         model="gpt-3.5-turbo",
         messages=[{
             "role": "user", 
-            "content": "Generate a super creative, witty, and hilarious quote about programming, coding, or tech life. Be clever, punny, or absurdly funny. Keep it clean, appropriate, and under 100 characters. Think dad jokes meet Silicon Valley humor."
+            "content": "Generate a super creative, witty, and hilarious quote about programming, coding, or tech life. Be clever, punny, or absurdly funny. Keep it clean, wholesome, positive, and under 100 characters. No violence, aggression, or negativity. Think clever wordplay and programming puns."
         }],
         max_tokens=50
     )
