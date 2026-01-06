@@ -19,7 +19,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 <div align="center">
   <a href="https://saagarracharla.pythonanywhere.com/link">
-    <img src="https://saagarracharla.pythonanywhere.com?theme=dark&scan=true&eq_color=53b14f" alt="Spotify Now Playing" width="400" />
+    <img src="https://saagarracharla.pythonanywhere.com?theme=dark&scan=true&spin=true&eq_color=rainbow" alt="Spotify Now Playing" width="400" />
   </a>
 </div>
 
