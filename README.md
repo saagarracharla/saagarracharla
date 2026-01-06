@@ -1,10 +1,3 @@
-<!-- F1_COUNTDOWN_START -->
-🏎️ **Next F1 Race: Australian Grand Prix**
-⏰ 61 days, 10 hours, 10 minutes
-📍 Albert Park Circuit
-🌍 Melbourne, Australia
-<!-- F1_COUNTDOWN_END -->
-
 <!-- QUOTE_START -->
 💬 **Daily Dev Quote**
 > "I told a UDP joke, but you might not get it." - ChatGPT
