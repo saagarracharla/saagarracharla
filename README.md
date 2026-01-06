@@ -1,14 +1,17 @@
-## Hi there, I'm Saagar 👋
+## 👋 Hi, I’m Saagar
 
-4th-year Computer Science student at McMaster University who previously fixed leaky data pipelines, shipped digital products at Scotiabank, and created AWS diagrams now preserved as historical artifacts.
+**4th-year Computer Science student at McMaster University**  
+Previously fixed leaky data pipelines, shipped digital products at Scotiabank,  
+and created AWS architecture diagrams now preserved as historical artifacts.
 
 ---
 
 <!-- QUOTE_START -->
 ### 💬 Daily Dev Quote
-*Fresh programming humor delivered daily — because we all need a laugh between merge conflicts*
+_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts_
 
- **"I told a UDP joke, but you might not get it." — ChatGPT**
+> **I told a UDP joke, but you might not get it.**  
+> — ChatGPT
 <!-- QUOTE_END -->
 
 ---
