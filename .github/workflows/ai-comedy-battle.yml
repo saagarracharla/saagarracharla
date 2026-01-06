@@ -1,0 +1,67 @@
+name: AI Comedy Battle
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Run daily at 12 PM UTC
+  workflow_dispatch:  # Allow manual trigger
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-jokes:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          pip install openai anthropic
+      
+      - name: Generate new jokes
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python ai_comedy_battle.py
+      
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md ai_leaderboard.json
+          git diff --staged --quiet || git commit -m "Update AI comedy battle"
+          git push
+
+  process-vote:
+    if: github.event_name == 'issues' && contains(github.event.issue.title, 'Vote for')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Process vote
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python process_vote.py "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
+      
+      - name: Close issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue close ${{ github.event.issue.number }} --comment "Thanks for voting! 🗳️"

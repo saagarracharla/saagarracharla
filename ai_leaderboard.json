@@ -1,0 +1,14 @@
+{
+  "ChatGPT": {
+    "votes": 0,
+    "wins": 0
+  },
+  "Claude": {
+    "votes": 0,
+    "wins": 0
+  },
+  "Gemini": {
+    "votes": 0,
+    "wins": 0
+  }
+}
