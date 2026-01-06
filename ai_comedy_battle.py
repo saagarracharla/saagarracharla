@@ -53,6 +53,9 @@ def generate_jokes():
         # Clean up any extra text
         if ":" in joke_text:
             joke_text = joke_text.split(":")[-1].strip()
+        # Capitalize first letter
+        if joke_text:
+            joke_text = joke_text[0].upper() + joke_text[1:] if len(joke_text) > 1 else joke_text.upper()
         jokes['Gemini'] = joke_text
         print(f"Gemini joke generated: {joke_text}")  # Debug line
     except Exception as e:
