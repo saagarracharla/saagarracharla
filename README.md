@@ -1,6 +1,6 @@
 <!-- QUOTE_START -->
-💬 **Daily Dev Quote**
-> "I told a UDP joke, but you might not get it." - ChatGPT
+# 💬 **Daily Dev Quote**
+## > **"I told a UDP joke, but you might not get it." - ChatGPT**
 <!-- QUOTE_END -->
 
 ## Hi there 👋
