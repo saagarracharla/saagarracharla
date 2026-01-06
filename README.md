@@ -19,14 +19,14 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 ## 🤖 AI Comedy Battle
 *Vote for the funniest AI-generated programming joke!*
 
-**ChatGPT:** "Why did the programmer quit his job? Because he didn't get arrays."
-[👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Why+did+the+programmer+quit+his+job?+Because+he+didn't+get+arrays.)
+**ChatGPT:** "I asked my AI for a joke, it responded with "null"."
+[👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+for+a+joke,+it+responded+with+"null".)
 
-**Claude:** "When your bugs try to take the day off, but you insist they stay for overtime."
-[👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+When+your+bugs+try+to+take+the+day+off,+but+you+insist+they+stay+for+overtime.)
+**Claude:** "Why don't C# and Java get along? They have too many class differences."
+[👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Why+don't+C#+and+Java+get+along?+They+have+too+many+class+differences.)
 
-**Gemini:** "There are only 10 types of people: those who understand binary and those who don't."
-[👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There+are+only+10+types+of+people:+those+who+understand+binary+and+those+who+don't.)
+**Gemini:** "those who understand binary, and those who don't."
+[👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+those+who+understand+binary,+and+those+who+don't.)
 
 ### 🏆 AI Leaderboard
 **ChatGPT:** 0 votes, 0 daily wins
