@@ -25,12 +25,13 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install openai anthropic
+          pip install openai anthropic google-generativeai
       
       - name: Generate new jokes
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: python ai_comedy_battle.py
       
       - name: Commit and push changes

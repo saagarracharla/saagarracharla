@@ -54,7 +54,9 @@ def generate_jokes():
         if ":" in joke_text:
             joke_text = joke_text.split(":")[-1].strip()
         jokes['Gemini'] = joke_text
-    except:
+        print(f"Gemini joke generated: {joke_text}")  # Debug line
+    except Exception as e:
+        print(f"Gemini failed: {e}")  # Debug line
         jokes['Gemini'] = "There are only 10 types of people: those who understand binary and those who don't."
     
     return jokes
