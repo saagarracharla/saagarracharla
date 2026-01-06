@@ -10,7 +10,7 @@ Previously:  Fixed leaky data pipelines, shipped digital products @ Scotiabank, 
 ## 💬 Daily Dev Quote
 ### _Fresh programming humor delivered daily — because we all need a laugh between merge conflicts_
 
-## > ***<span style="color: #6a9bd1;">I told a UDP joke, but you might not get it.</span>***  — ChatGPT
+## > ***I told a UDP joke, but you might not get it.*** — ChatGPT
 <!-- QUOTE_END -->
 
 ---
