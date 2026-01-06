@@ -1,6 +1,6 @@
 ## Hi there, I'm Saagar 👋
 
-Computer Science student at McMaster University with a passion for building scalable solutions and automating complex workflows. Currently architecting cloud solutions at AWS and previously engineered data pipelines at Scotiabank.
+4th-year Computer Science student at McMaster University who previously fixed leaky data pipelines, shipped digital products at Scotiabank, and created AWS diagrams now preserved as historical artifacts.
 
 ---
 
@@ -8,7 +8,7 @@ Computer Science student at McMaster University with a passion for building scal
 ### 💬 Daily Dev Quote
 *Fresh programming humor delivered daily — because we all need a laugh between merge conflicts*
 
-> **"I told a UDP joke, but you might not get it." — ChatGPT**
+ **"I told a UDP joke, but you might not get it." — ChatGPT**
 <!-- QUOTE_END -->
 
 ---
