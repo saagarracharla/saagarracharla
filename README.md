@@ -10,7 +10,7 @@ Previously:  Created system architecture diagrams that are now preserved as hist
 ### 💬 Daily Dev Quote
 _Fresh programming humor delivered daily — because we all need a laugh between merge conflicts_
 
-> **I told a UDP joke, but you might not get it.** — ChatGPT
+> **I asked my computer to suggest a joke, but it couldn't get past the semicolons.** — ChatGPT
 <!-- QUOTE_END -->
 
 ---
