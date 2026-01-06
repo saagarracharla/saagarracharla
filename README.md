@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Saagar
 
-**Currently: 4th-year Computer Science student at McMaster University**  
+**Currently: 4th-year Computer Science student @ McMaster University**  
 
-Previously fixed leaky data pipelines, shipped digital products at Scotiabank, and created AWS architecture diagrams now preserved as historical artifacts.
+Previously:  Dixed leaky data pipelines, shipped digital products @ Scotiabank, and created system architecture diagrams that now preserved as historical artifacts @ Amazon
 
 ---
 
