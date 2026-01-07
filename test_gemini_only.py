@@ -11,7 +11,7 @@ def test_gemini_joke():
         
         print("Testing Gemini joke generation...")
         
-        response = model.generate_content("Generate only a short, witty programming joke. Keep it under 80 characters. Return ONLY the joke, no extra text or explanation.")
+        response = model.generate_content("Generate only a short, witty programming joke. Keep it under 80 characters. Return ONLY the joke, no extra text or explanation. Make it unique and creative, not a common joke.")
         
         print(f"Raw response: {response.text}")
         

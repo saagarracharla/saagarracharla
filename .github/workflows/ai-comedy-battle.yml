@@ -2,7 +2,7 @@ name: AI Comedy Battle
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Run daily at 12 PM UTC
+    - cron: '0 5 * * *'  # Run daily at 12:00 AM EST (5:00 AM UTC)
   workflow_dispatch:  # Allow manual trigger
   issues:
     types: [opened]
