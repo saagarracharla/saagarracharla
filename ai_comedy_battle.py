@@ -147,4 +147,6 @@ def update_readme_with_jokes():
         f.write(content)
 
 if __name__ == "__main__":
+    print("🚀 Starting AI Comedy Battle update...")
     update_readme_with_jokes()
+    print("✅ AI Comedy Battle update completed!")
