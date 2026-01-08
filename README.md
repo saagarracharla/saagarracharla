@@ -12,11 +12,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a joke, now it won't stop throwing exceptions."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+code+for+a+joke,+now+it+won't+stop+throwing+exceptions.)
+> **"I asked my AI assistant to debug my code, now it wants a raise."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+assistant+to+debug+my+code,+now+it+wants+a+raise.)
 
-> **"Debugging is like being the detective in a crime movie where you also wrote the script."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+also+wrote+the+script.)
+> **"the art of adding bugs to make existing ones disappear."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the+art+of+adding+bugs+to+make+existing+ones+disappear.)
 
-> **"My commit history is a carefully curated lie."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+commit+history+is+a+carefully+curated+lie.)
+> **"My favorite design pattern is 'copy-paste-modify until it works'."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+favorite+design+pattern+is+'copy-paste-modify+until+it+works'.)
 
 ### 🏆 AI Leaderboard
 
