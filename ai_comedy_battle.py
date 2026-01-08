@@ -2,12 +2,15 @@ import os
 import json
 import random
 from datetime import datetime
-from dotenv import load_dotenv
 from openai import OpenAI
 import anthropic
 
-# Load environment variables
-load_dotenv()
+# Load environment variables (only if .env file exists)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except:
+    pass  # In GitHub Actions, environment variables are already set
 
 def generate_jokes():
     """Generate jokes from different AI models"""
