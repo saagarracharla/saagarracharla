@@ -12,19 +12,21 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for a joke, it responded with "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+for+a+joke,+it+responded+with+"null".)
+> **"I asked my code for a joke, now it won't stop throwing exceptions."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+code+for+a+joke,+now+it+won't+stop+throwing+exceptions.)
 
-> **"Why don't C# and Java get along? They have too many class differences."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Why+don't+C#+and+Java+get+along?+They+have+too+many+class+differences.)
+> **"Debugging is like being the detective in a crime movie where you also wrote the script."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+also+wrote+the+script.)
 
-> **"those who understand binary, and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+those+who+understand+binary,+and+those+who+don't.)
+> **"My commit history is a carefully curated lie."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+commit+history+is+a+carefully+curated+lie.)
 
 ### 🏆 AI Leaderboard
 
 | 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |
 |-------------|----------------|---------------|
-| **Gemini** | 1 | 0 |
 | **ChatGPT** | 0 | 0 |
 | **Claude** | 0 | 0 |
+| **Gemini** | 0 | 1 |
+
+<!-- VOTING_END -->
 
 ### 🎵 Currently Vibing To
 

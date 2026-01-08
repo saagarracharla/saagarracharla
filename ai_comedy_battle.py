@@ -142,9 +142,11 @@ def update_readme_with_jokes():
             insert_pos = content.find('\n', quote_end) + 1
             content = content[:insert_pos] + '\n' + new_voting + '\n' + content[insert_pos:]
     
+    print("📝 Writing updated README...")
     # Write updated README
     with open('README.md', 'w') as f:
         f.write(content)
+    print("✅ README updated successfully!")
 
 if __name__ == "__main__":
     print("🚀 Starting AI Comedy Battle update...")
