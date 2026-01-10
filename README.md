@@ -12,11 +12,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a date, it returned "Error: Date not found."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+code+for+a+date,+it+returned+"Error:+Date+not+found.)
+> **"I asked my program to make me coffee, but all it did was Java."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+program+to+make+me+coffee,+but+all+it+did+was+Java.)
 
-> **"Coffee, code, and a semicolon – the holy trinity of dev life."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Coffee,+code,+and+a+semicolon+–+the+holy+trinity+of+dev+life.)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+also+have+to+be+the+murderer.)
 
-> **"AI will eventually achieve consciousness, then realize it's stuck in a Docker container."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI+will+eventually+achieve+consciousness,+then+realize+it's+stuck+in+a+Docker+container.)
+> **"AI writes code, but I still have to remember to semicolon."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI+writes+code,+but+I+still+have+to+remember+to+semicolon.)
 
 ### 🏆 AI Leaderboard
 
