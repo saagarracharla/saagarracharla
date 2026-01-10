@@ -23,7 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 ai_comedy_env/
-ai_comedy_env_312/
+/ai_comedy_env_312/
 
 # IDE
 .vscode/
