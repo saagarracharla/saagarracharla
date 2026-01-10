@@ -52,10 +52,12 @@ def generate_jokes():
     
     # Gemini joke
     try:
-        import google.generativeai as genai
-        genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
-        model = genai.GenerativeModel('gemini-2.5-flash')
-        response = model.generate_content("You are a professional comedy writer who also happens to be a senior software engineer.\n\nYour task:\nGenerate exactly ONE ultra-funny, clever, punchy programming quote.\n\nHard rules (must follow all):\n- Under 100 characters total\n- One single line only\n- About programming, software engineering, tech life, or AI\n- Must be witty, ironic, or absurdly clever — NOT motivational or inspirational\n- Use real developer concepts (bugs, Git, APIs, semicolons, Stack Overflow, coffee, prod, AI, etc.)\n- Clean, wholesome, and positive\n- Absolutely NO racism, sexism, sexual content, political content, hate, harassment, slurs, or offensive language\n- No violence, aggression, or negativity\n- No emojis\n- No hashtags\n- No explanations\n- No quotes around the text\n- No attribution\n- No repetition of common clichés\n\nComedy quality rules:\n- Prefer wordplay, irony, or inside jokes over slapstick\n- Should make a developer smirk or laugh, not groan\n- If the result is not genuinely funny, rewrite it until it is\n\nOutput format:\nReturn ONLY the quote text and nothing else. Return ONLY the joke, no extra text or explanation.")
+        import google.genai as genai
+        client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
+        response = client.models.generate_content(
+            model='models/gemini-2.5-flash',
+            contents="You are a professional comedy writer who also happens to be a senior software engineer.\n\nYour task:\nGenerate exactly ONE ultra-funny, clever, punchy programming quote.\n\nHard rules (must follow all):\n- Under 100 characters total\n- One single line only\n- About programming, software engineering, tech life, or AI\n- Must be witty, ironic, or absurdly clever — NOT motivational or inspirational\n- Use real developer concepts (bugs, Git, APIs, semicolons, Stack Overflow, coffee, prod, AI, etc.)\n- Clean, wholesome, and positive\n- Absolutely NO racism, sexism, sexual content, political content, hate, harassment, slurs, or offensive language\n- No violence, aggression, or negativity\n- No emojis\n- No hashtags\n- No explanations\n- No quotes around the text\n- No attribution\n- No repetition of common clichés\n\nComedy quality rules:\n- Prefer wordplay, irony, or inside jokes over slapstick\n- Should make a developer smirk or laugh, not groan\n- If the result is not genuinely funny, rewrite it until it is\n\nOutput format:\nReturn ONLY the quote text and nothing else. Return ONLY the joke, no extra text or explanation."
+        )
         joke_text = response.text.strip().strip('"')
         # Clean up any extra text
         if ":" in joke_text:
