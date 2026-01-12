@@ -22,11 +22,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |
 |-------------|----------------|---------------|
+| **Claude** | 1 | 0 |
 | **ChatGPT** | 0 | 2 |
-| **Claude** | 0 | 0 |
 | **Gemini** | 0 | 1 |
-
-<!-- VOTING_END -->
 
 ### 🎵 Currently Vibing To
 
