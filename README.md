@@ -12,11 +12,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my virtual assistant to help with my code, now all my bugs have bugs."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+virtual+assistant+to+help+with+my+code,+now+all+my+bugs+have+bugs.)
+> **"I asked my AI to write a joke about semicolons, but it kept getting stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+to+write+a+joke+about+semicolons,+but+it+kept+getting+stuck+in+an+infinite+loop.)
 
-> **"Bugs are the Easter eggs of the software world."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs+are+the+Easter+eggs+of+the+software+world.)
+> **"the art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the+art+of+adding+bugs+to+fix+other+bugs.)
 
-> **"AI wrote this, but I still had to debug the hallucination."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI+wrote+this,+but+I+still+had+to+debug+the+hallucination.)
+> **"My AI pair programmer keeps trying to push to `main`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+AI+pair+programmer+keeps+trying+to+push+to+`main`.)
 
 ### 🏆 AI Leaderboard
 
