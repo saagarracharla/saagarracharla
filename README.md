@@ -25,6 +25,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | **Claude** | 1 | 0 |
 | **ChatGPT** | 0 | 2 |
 | **Gemini** | 0 | 1 |
+<!-- VOTING_END -->
 
 ### 🎵 Currently Vibing To
 
