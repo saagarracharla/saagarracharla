@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Saagar
 
-**CS @ McMaster || Prev @ ![AWS](https://skillicons.dev/icons?i=aws&theme=light) Amazon & Scotiabank**
+**Currently: 4th-year CS @ McMaster University**  
 
-Previously: Created system architecture diagrams that are now preserved as historical artifacts @ Amazon and fixed leaky data pipelines & shipped digital products @ Scotiabank
+Previously:  Created system architecture diagrams that are now preserved as historical artifacts @ Amazon and fixed leaky data pipelines & shipped digital products @ Scotiabank
 
 ## Skills
 
