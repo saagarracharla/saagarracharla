@@ -6,22 +6,22 @@ Previously:  Created system architecture diagrams that are now preserved as hist
 
 ## Skills
 
-**Languages**
+**Languages**  
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,haskell,r,matlab,regex)](https://skillicons.dev)
 
-**Frontend**
+**Frontend**  
 [![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,html,css,figma)](https://skillicons.dev)
 
-**Backend**
+**Backend**  
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,npm)](https://skillicons.dev)
 
-**Cloud & DevOps**
+**Cloud & DevOps**  
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux)](https://skillicons.dev)
 
-**Databases**
+**Databases**  
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb)](https://skillicons.dev)
 
-**Tools & Platforms**
+**Tools & Platforms**  
 [![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,netlify,vercel,firebase,latex)](https://skillicons.dev)
 
 ---
