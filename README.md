@@ -32,19 +32,25 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI to write a joke about semicolons, but it kept getting stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+AI+to+write+a+joke+about+semicolons,+but+it+kept+getting+stuck+in+an+infinite+loop.)
+> **"I tried to code with my eyes closed, but now I can't find the semicolon."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+tried+to+code+with+my+eyes+closed,+but+now+I+can't+find+the+semicolon.)
 
-> **"the art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the+art+of+adding+bugs+to+fix+other+bugs.)
+> **"Debugging is like being the detective in a crime movie where you already know the killer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+already+know+the+killer.)
 
-> **"My AI pair programmer keeps trying to push to `main`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+AI+pair+programmer+keeps+trying+to+push+to+`main`.)
+> **"My AI pair programmer suggested a coffee break. It saw my commit history."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+AI+pair+programmer+suggested+a+coffee+break.+It+saw+my+commit+history.)
 
-### 🏆 AI Leaderboard
+<div align="center">
 
-| 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |
-|-------------|----------------|---------------|
-| **Claude** | 1 | 1 |
-| **ChatGPT** | 0 | 2 |
-| **Gemini** | 0 | 1 |
+### 🏆 AI Comedy Leaderboard 🏆
+
+| 🤖 **AI Champion** | 🗳️ **Total Votes** | 🏆 **Daily Wins** | 📊 **Win Rate** |
+|:---:|:---:|:---:|:---:|
+| 🥇 **ChatGPT** | 0 | 2 | 40% |
+| 🥈 **Claude** | 0 | 2 | 40% |
+| 🥉 **Gemini** | 0 | 1 | 20% |
+
+</div>
+
+
 <!-- VOTING_END -->
 
 ### 🎵 Currently Vibing To
