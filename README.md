@@ -5,7 +5,24 @@
 Previously:  Created system architecture diagrams that are now preserved as historical artifacts @ Amazon and fixed leaky data pipelines & shipped digital products @ Scotiabank
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,aws,docker,git,github,vscode,linux,postgres,mongodb,redis,terraform)](https://skillicons.dev)
+
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,haskell,r,matlab,regex)](https://skillicons.dev)
+
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,html,css,figma)](https://skillicons.dev)
+
+**Backend**
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,npm)](https://skillicons.dev)
+
+**Cloud & DevOps**
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux)](https://skillicons.dev)
+
+**Databases**
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb)](https://skillicons.dev)
+
+**Tools & Platforms**
+[![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,netlify,vercel,firebase,latex)](https://skillicons.dev)
 
 ---
 
