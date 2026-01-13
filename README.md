@@ -4,6 +4,9 @@
 
 Previously:  Created system architecture diagrams that are now preserved as historical artifacts @ Amazon and fixed leaky data pipelines & shipped digital products @ Scotiabank
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,aws,docker,git,github,vscode,linux,postgres,mongodb,redis,terraform)](https://skillicons.dev)
+
 ---
 
 <!-- VOTING_START -->
