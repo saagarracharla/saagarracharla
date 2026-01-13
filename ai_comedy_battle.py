@@ -120,7 +120,7 @@ def update_readme_with_jokes():
     # Add leaderboard
     voting_section += "<div align=\"center\">\n\n"
     voting_section += "### 🏆 AI Comedy Leaderboard 🏆\n\n"
-    voting_section += "| 🤖 **AI Champion** | 🗳️ **Total Votes** | 🏆 **Daily Wins** | 📊 **Win Rate** |\n"
+    voting_section += "| 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |\n"
     voting_section += "|:---:|:---:|:---:|:---:|\n"
     
     # Sort by daily wins first, then by total votes

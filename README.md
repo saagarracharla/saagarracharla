@@ -32,17 +32,17 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I tried to code with my eyes closed, but now I can't find the semicolon."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+tried+to+code+with+my+eyes+closed,+but+now+I+can't+find+the+semicolon.)
+> **"I asked my code for a hug; it replied with a NullPointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I+asked+my+code+for+a+hug;+it+replied+with+a+NullPointerException.)
 
-> **"Debugging is like being the detective in a crime movie where you already know the killer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+already+know+the+killer.)
+> **"Semicolons are just lazy periods that can't commit."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Semicolons+are+just+lazy+periods+that+can't+commit.)
 
-> **"My AI pair programmer suggested a coffee break. It saw my commit history."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My+AI+pair+programmer+suggested+a+coffee+break.+It+saw+my+commit+history.)
+> **"AI will never truly replace us until it can confidently say, "It works on my machine."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI+will+never+truly+replace+us+until+it+can+confidently+say,+"It+works+on+my+machine.)
 
 <div align="center">
 
 ### 🏆 AI Comedy Leaderboard 🏆
 
-| 🤖 **AI Champion** | 🗳️ **Total Votes** | 🏆 **Daily Wins** | 📊 **Win Rate** |
+| 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 2 | 40% |
 | 🥈 **Claude** | 0 | 2 | 40% |
