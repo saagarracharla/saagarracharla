@@ -7,22 +7,28 @@ Previously:  Created system architecture diagrams that are now preserved as hist
 ## Skills
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,haskell,r,matlab,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,haskell,r,matlab,regex)](https://skillicons.dev)  
+<sub><i>Python, Java, JavaScript, TypeScript, Haskell, R, MATLAB, Regex</i></sub>
 
 **Frontend**  
-[![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,html,css,figma)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,html,css,figma)](https://skillicons.dev)  
+<sub><i>React, Vue.js, Next.js, HTML, CSS, Figma</i></sub>
 
 **Backend**  
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,npm)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,npm)](https://skillicons.dev)  
+<sub><i>Node.js, Express, Flask, npm</i></sub>
 
 **Cloud & DevOps**  
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux)](https://skillicons.dev)  
+<sub><i>AWS, Google Cloud, Docker, Kubernetes, Terraform, Linux</i></sub>
 
 **Databases**  
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb)](https://skillicons.dev)  
+<sub><i>PostgreSQL, MongoDB, MySQL, SQLite, DynamoDB</i></sub>
 
 **Tools & Platforms**  
-[![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,netlify,vercel,firebase,latex)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,netlify,vercel,firebase,latex)](https://skillicons.dev)  
+<sub><i>Git, GitHub, Bitbucket, VS Code, Postman, Netlify, Vercel, Firebase, LaTeX</i></sub>
 
 ---
 
