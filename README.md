@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Saagar
+## 👋 Hi, I'm Saagar - CS @ McMaster || Prev @ Amazon & Scotiabank
 
 **Currently: 4th-year CS @ McMaster University**  
 
