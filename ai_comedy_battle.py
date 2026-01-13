@@ -118,13 +118,32 @@ def update_readme_with_jokes():
         voting_section += f"> **\"{joke}\"** — {ai} [👍 Vote for {ai}]({vote_url})\n\n"
     
     # Add leaderboard
-    voting_section += "### 🏆 AI Leaderboard\n\n"
-    voting_section += "| 🤖 AI Model | 🗳️ Total Votes | 🏆 Daily Wins |\n"
-    voting_section += "|-------------|----------------|---------------|\n"
-    sorted_ais = sorted(leaderboard.items(), key=lambda x: x[1]['votes'], reverse=True)
+    voting_section += "<div align=\"center\">\n\n"
+    voting_section += "### 🏆 AI Comedy Leaderboard 🏆\n\n"
+    voting_section += "| 🤖 **AI Champion** | 🗳️ **Total Votes** | 🏆 **Daily Wins** | 📊 **Win Rate** |\n"
+    voting_section += "|:---:|:---:|:---:|:---:|\n"
     
-    for ai, stats in sorted_ais:
-        voting_section += f"| **{ai}** | {stats['votes']} | {stats['wins']} |\n"
+    # Sort by daily wins first, then by total votes
+    sorted_ais = sorted(leaderboard.items(), key=lambda x: (x[1]['wins'], x[1]['votes']), reverse=True)
+    
+    for i, (ai, stats) in enumerate(sorted_ais):
+        # Add trophy emojis for top performers
+        if i == 0 and stats['wins'] > 0:
+            ai_display = f"🥇 **{ai}**"
+        elif i == 1 and stats['wins'] > 0:
+            ai_display = f"🥈 **{ai}**"
+        elif i == 2 and stats['wins'] > 0:
+            ai_display = f"🥉 **{ai}**"
+        else:
+            ai_display = f"**{ai}**"
+        
+        # Calculate win rate
+        total_days = sum(ai_stats['wins'] for ai_stats in leaderboard.values())
+        win_rate = f"{(stats['wins']/total_days*100):.0f}%" if total_days > 0 else "0%"
+        
+        voting_section += f"| {ai_display} | {stats['votes']} | {stats['wins']} | {win_rate} |\n"
+    
+    voting_section += "\n</div>\n\n"
     
     # Read current README
     with open('README.md', 'r') as f:
