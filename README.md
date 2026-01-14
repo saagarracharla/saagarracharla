@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke about AI. It replied, "I can't do that, Dave."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%20about%20AI.%20It%20replied%2C%20%22I%20can%27t%20do%20that%2C%20Dave.)
+> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
 
-> **"Bugs are just surprise features waiting to be beta tested."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20surprise%20features%20waiting%20to%20be%20beta%20tested.)
+> **"The only constant in life is changing your variable names."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20only%20constant%20in%20life%20is%20changing%20your%20variable%20names.)
 
-> **"An API is just a friendship bracelet for two unrelated codebases."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+An%20API%20is%20just%20a%20friendship%20bracelet%20for%20two%20unrelated%20codebases.)
+> **"My AI model just merged my pull request with its own code."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20just%20merged%20my%20pull%20request%20with%20its%20own%20code.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 3 | 43% |
-| 🥈 **Gemini** | 1 | 2 | 29% |
-| 🥉 **Claude** | 0 | 2 | 29% |
+| 🥇 **ChatGPT** | 0 | 3 | 38% |
+| 🥈 **Gemini** | 0 | 3 | 38% |
+| 🥉 **Claude** | 0 | 2 | 25% |
 
 </div>
 
