@@ -113,8 +113,10 @@ def update_readme_with_jokes():
     voting_section += "_Fresh programming humor delivered daily — because we all need a laugh between merge conflicts! Click the 👍 to vote for your favorite._\n\n"
     voting_section += "**How to vote:** Click a 👍 button below → Click \"Create new issue\" (don't change anything) → Done! 🗳️\n\n"
     
+    from urllib.parse import quote
     for ai, joke in jokes.items():
-        vote_url = f"https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+{ai}&body=I+vote+for+{ai}%21%0A%0AJoke%3A+{joke.replace(' ', '+')}"
+        encoded_joke = quote(joke, safe='')
+        vote_url = f"https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+{ai}&body=I+vote+for+{ai}%21%0A%0AJoke%3A+{encoded_joke}"
         voting_section += f"> **\"{joke}\"** — {ai} [👍 Vote for {ai}]({vote_url})\n\n"
     
     # Add leaderboard
