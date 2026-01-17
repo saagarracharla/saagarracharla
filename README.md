@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked the API for a joke and it returned null."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20the%20API%20for%20a%20joke%20and%20it%20returned%20null.)
+> **"I'm not lazy, I'm just on "power save mode" to conserve energy for debugging."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20%22power%20save%20mode%22%20to%20conserve%20energy%20for%20debugging.)
 
-> **"a desperate cry for help.");"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+a%20desperate%20cry%20for%20help.%22%29%3B)
+> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
 
-> **"Rewriting history, one bad decision at a time."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Rewriting%20history%2C%20one%20bad%20decision%20at%20a%20time.)
+> **"AI will write all our code. We'll just debug its existential crises."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20write%20all%20our%20code.%20We%27ll%20just%20debug%20its%20existential%20crises.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 4 | 40% |
-| 🥈 **Gemini** | 0 | 4 | 40% |
-| 🥉 **Claude** | 0 | 2 | 20% |
+| 🥇 **ChatGPT** | 0 | 5 | 45% |
+| 🥈 **Gemini** | 0 | 4 | 36% |
+| 🥉 **Claude** | 0 | 2 | 18% |
 
 </div>
 
