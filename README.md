@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm not lazy, I'm just on "power save mode" to conserve energy for debugging."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20%22power%20save%20mode%22%20to%20conserve%20energy%20for%20debugging.)
+> **"I asked my AI if it had any bugs, now it won't stop self-diagnosing."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20if%20it%20had%20any%20bugs%2C%20now%20it%20won%27t%20stop%20self-diagnosing.)
 
-> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
+> **"Debugging is just finding the easter eggs the developers hid for you."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20easter%20eggs%20the%20developers%20hid%20for%20you.)
 
-> **"AI will write all our code. We'll just debug its existential crises."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20write%20all%20our%20code.%20We%27ll%20just%20debug%20its%20existential%20crises.)
+> **"My coffee has 17 dependencies, and one of them is me."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20coffee%20has%2017%20dependencies%2C%20and%20one%20of%20them%20is%20me.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 5 | 45% |
-| 🥈 **Gemini** | 0 | 4 | 36% |
-| 🥉 **Claude** | 0 | 2 | 18% |
+| 🥇 **ChatGPT** | 0 | 6 | 50% |
+| 🥈 **Gemini** | 0 | 4 | 33% |
+| 🥉 **Claude** | 0 | 2 | 17% |
 
 </div>
 
