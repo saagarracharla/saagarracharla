@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI if it had any bugs, now it won't stop self-diagnosing."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20if%20it%20had%20any%20bugs%2C%20now%20it%20won%27t%20stop%20self-diagnosing.)
+> **"I love coding errors, they're like my own little surprise parties!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20love%20coding%20errors%2C%20they%27re%20like%20my%20own%20little%20surprise%20parties%21)
 
-> **"Debugging is just finding the easter eggs the developers hid for you."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20easter%20eggs%20the%20developers%20hid%20for%20you.)
+> **"Null pointer? More like a full-stack overflow!"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Null%20pointer%3F%20More%20like%20a%20full-stack%20overflow%21)
 
-> **"My coffee has 17 dependencies, and one of them is me."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20coffee%20has%2017%20dependencies%2C%20and%20one%20of%20them%20is%20me.)
+> **"My `git blame` points to future me. Past me is a jerk."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20blame%60%20points%20to%20future%20me.%20Past%20me%20is%20a%20jerk.)
 
 <div align="center">
 
