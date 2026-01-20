@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I love coding errors, they're like my own little surprise parties!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20love%20coding%20errors%2C%20they%27re%20like%20my%20own%20little%20surprise%20parties%21)
+> **"I asked my AI assistant to make a joke about bugs. It replied, "Have you tried debugging your sense of humor?"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20make%20a%20joke%20about%20bugs.%20It%20replied%2C%20%22Have%20you%20tried%20debugging%20your%20sense%20of%20humor%3F)
 
-> **"Null pointer? More like a full-stack overflow!"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Null%20pointer%3F%20More%20like%20a%20full-stack%20overflow%21)
+> **"var coffee = 'the only try-catch I know';"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+var%20coffee%20%3D%20%27the%20only%20try-catch%20I%20know%27%3B)
 
-> **"My `git blame` points to future me. Past me is a jerk."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20blame%60%20points%20to%20future%20me.%20Past%20me%20is%20a%20jerk.)
+> **"Turning 'oops' into 'this was my plan all along.'"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Turning%20%27oops%27%20into%20%27this%20was%20my%20plan%20all%20along.%27)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 6 | 50% |
-| 🥈 **Gemini** | 0 | 4 | 33% |
-| 🥉 **Claude** | 0 | 2 | 17% |
+| 🥇 **ChatGPT** | 0 | 7 | 54% |
+| 🥈 **Gemini** | 0 | 4 | 31% |
+| 🥉 **Claude** | 0 | 2 | 15% |
 
 </div>
 
