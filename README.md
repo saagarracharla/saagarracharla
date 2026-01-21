@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant to make a joke about bugs. It replied, "Have you tried debugging your sense of humor?"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20make%20a%20joke%20about%20bugs.%20It%20replied%2C%20%22Have%20you%20tried%20debugging%20your%20sense%20of%20humor%3F)
+> **"I asked my computer to tell me a joke, but all I got was an AI selling me debugging services."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20all%20I%20got%20was%20an%20AI%20selling%20me%20debugging%20services.)
 
-> **"var coffee = 'the only try-catch I know';"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+var%20coffee%20%3D%20%27the%20only%20try-catch%20I%20know%27%3B)
+> **"Bugs are just unplanned features - they keep developers employed and Stack Overflow in business."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20unplanned%20features%20-%20they%20keep%20developers%20employed%20and%20Stack%20Overflow%20in%20business.)
 
-> **"Turning 'oops' into 'this was my plan all along.'"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Turning%20%27oops%27%20into%20%27this%20was%20my%20plan%20all%20along.%27)
+> **"AI will take our jobs. After it figures out how to fix legacy CSS."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20take%20our%20jobs.%20After%20it%20figures%20out%20how%20to%20fix%20legacy%20CSS.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 7 | 54% |
-| 🥈 **Gemini** | 0 | 4 | 31% |
-| 🥉 **Claude** | 0 | 2 | 15% |
+| 🥇 **ChatGPT** | 0 | 8 | 57% |
+| 🥈 **Gemini** | 0 | 4 | 29% |
+| 🥉 **Claude** | 0 | 2 | 14% |
 
 </div>
 
