@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke, but all I got was an AI selling me debugging services."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20all%20I%20got%20was%20an%20AI%20selling%20me%20debugging%20services.)
+> **"Semicolons are like my ex: they show up when least expected and cause everything to crash."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Semicolons%20are%20like%20my%20ex%3A%20they%20show%20up%20when%20least%20expected%20and%20cause%20everything%20to%20crash.)
 
-> **"Bugs are just unplanned features - they keep developers employed and Stack Overflow in business."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20unplanned%20features%20-%20they%20keep%20developers%20employed%20and%20Stack%20Overflow%20in%20business.)
+> **"a necessary evil, a source of endless debate."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+a%20necessary%20evil%2C%20a%20source%20of%20endless%20debate.)
 
-> **"AI will take our jobs. After it figures out how to fix legacy CSS."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20take%20our%20jobs.%20After%20it%20figures%20out%20how%20to%20fix%20legacy%20CSS.)
+> **"My personal museum of past-self's creative solutions."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20personal%20museum%20of%20past-self%27s%20creative%20solutions.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 8 | 57% |
-| 🥈 **Gemini** | 0 | 4 | 29% |
-| 🥉 **Claude** | 1 | 2 | 14% |
+| 🥇 **ChatGPT** | 0 | 8 | 53% |
+| 🥈 **Gemini** | 0 | 4 | 27% |
+| 🥉 **Claude** | 0 | 3 | 20% |
 
 </div>
 
