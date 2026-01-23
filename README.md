@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"Semicolons are like my ex: they show up when least expected and cause everything to crash."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Semicolons%20are%20like%20my%20ex%3A%20they%20show%20up%20when%20least%20expected%20and%20cause%20everything%20to%20crash.)
+> **"I asked my computer how to fix a bug, and it replied, "Have you tried turning it off and back on again?"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20how%20to%20fix%20a%20bug%2C%20and%20it%20replied%2C%20%22Have%20you%20tried%20turning%20it%20off%20and%20back%20on%20again%3F)
 
-> **"a necessary evil, a source of endless debate."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+a%20necessary%20evil%2C%20a%20source%20of%20endless%20debate.)
+> **"Debugging is just finding the part where you didn't know what you were doing."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20part%20where%20you%20didn%27t%20know%20what%20you%20were%20doing.)
 
-> **"My personal museum of past-self's creative solutions."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20personal%20museum%20of%20past-self%27s%20creative%20solutions.)
+> **"My Git history is less a log and more a series of heroic `force push` recoveries."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20Git%20history%20is%20less%20a%20log%20and%20more%20a%20series%20of%20heroic%20%60force%20push%60%20recoveries.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 8 | 53% |
-| 🥈 **Gemini** | 0 | 4 | 27% |
-| 🥉 **Claude** | 0 | 3 | 20% |
+| 🥇 **ChatGPT** | 0 | 9 | 56% |
+| 🥈 **Gemini** | 0 | 4 | 25% |
+| 🥉 **Claude** | 0 | 3 | 19% |
 
 </div>
 
