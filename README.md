@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked the AI to write better code but all I got were infinite loops and "Hello, World!" outputs."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20the%20AI%20to%20write%20better%20code%20but%20all%20I%20got%20were%20infinite%20loops%20and%20%22Hello%2C%20World%21%22%20outputs.)
+> **"I asked my code for a date, but it kept giving me a nullPointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20date%2C%20but%20it%20kept%20giving%20me%20a%20nullPointerException.)
 
-> **"Semicolons are the duct tape of code — they'll hold it together, but you'll feel like a hack."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Semicolons%20are%20the%20duct%20tape%20of%20code%20%E2%80%94%20they%27ll%20hold%20it%20together%2C%20but%20you%27ll%20feel%20like%20a%20hack.)
+> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
 
-> **"My 'feature' is just a bug on a sabbatical."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%27feature%27%20is%20just%20a%20bug%20on%20a%20sabbatical.)
+> **"'Fixed all the things.'"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+%27Fixed%20all%20the%20things.%27)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 9 | 53% |
-| 🥈 **Claude** | 0 | 4 | 24% |
-| 🥉 **Gemini** | 0 | 4 | 24% |
+| 🥇 **ChatGPT** | 0 | 10 | 56% |
+| 🥈 **Claude** | 0 | 4 | 22% |
+| 🥉 **Gemini** | 0 | 4 | 22% |
 
 </div>
 
