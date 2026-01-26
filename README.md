@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a date, but it kept giving me a nullPointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20date%2C%20but%20it%20kept%20giving%20me%20a%20nullPointerException.)
+> **"I asked the QA team to test my code, but they said it passed all the tests on Git."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20the%20QA%20team%20to%20test%20my%20code%2C%20but%20they%20said%20it%20passed%20all%20the%20tests%20on%20Git.)
 
-> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
+> **"the holy trinity of software development."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20holy%20trinity%20of%20software%20development.)
 
-> **"'Fixed all the things.'"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+%27Fixed%20all%20the%20things.%27)
+> **"I debugged my code by explaining it to the rubber duck. It listened."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20debugged%20my%20code%20by%20explaining%20it%20to%20the%20rubber%20duck.%20It%20listened.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 10 | 56% |
-| 🥈 **Claude** | 0 | 4 | 22% |
-| 🥉 **Gemini** | 0 | 4 | 22% |
+| 🥇 **ChatGPT** | 0 | 11 | 58% |
+| 🥈 **Claude** | 0 | 4 | 21% |
+| 🥉 **Gemini** | 0 | 4 | 21% |
 
 </div>
 
