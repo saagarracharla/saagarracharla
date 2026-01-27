@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked the QA team to test my code, but they said it passed all the tests on Git."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20the%20QA%20team%20to%20test%20my%20code%2C%20but%20they%20said%20it%20passed%20all%20the%20tests%20on%20Git.)
+> **"I asked my AI for a joke, it replied: "Why was the JavaScript developer sad? Because he didn't get async with his life!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20joke%2C%20it%20replied%3A%20%22Why%20was%20the%20JavaScript%20developer%20sad%3F%20Because%20he%20didn%27t%20get%20async%20with%20his%20life%21)
 
-> **"the holy trinity of software development."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20holy%20trinity%20of%20software%20development.)
+> **"mysterious, rarely seen, and impossible to remove once inserted."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+mysterious%2C%20rarely%20seen%2C%20and%20impossible%20to%20remove%20once%20inserted.)
 
-> **"I debugged my code by explaining it to the rubber duck. It listened."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20debugged%20my%20code%20by%20explaining%20it%20to%20the%20rubber%20duck.%20It%20listened.)
+> **"My code worked yesterday. Today, it knows too much."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%20worked%20yesterday.%20Today%2C%20it%20knows%20too%20much.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 11 | 58% |
-| 🥈 **Gemini** | 1 | 4 | 21% |
-| 🥉 **Claude** | 0 | 4 | 21% |
+| 🥇 **ChatGPT** | 0 | 11 | 55% |
+| 🥈 **Gemini** | 0 | 5 | 25% |
+| 🥉 **Claude** | 0 | 4 | 20% |
 
 </div>
 
