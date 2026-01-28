@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for a joke, it replied: "Why was the JavaScript developer sad? Because he didn't get async with his life!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20joke%2C%20it%20replied%3A%20%22Why%20was%20the%20JavaScript%20developer%20sad%3F%20Because%20he%20didn%27t%20get%20async%20with%20his%20life%21)
+> **"I asked my code for a date, it replied with a NaN."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20date%2C%20it%20replied%20with%20a%20NaN.)
 
-> **"mysterious, rarely seen, and impossible to remove once inserted."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+mysterious%2C%20rarely%20seen%2C%20and%20impossible%20to%20remove%20once%20inserted.)
+> **"The art of adding bugs until the program doesn't work."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20art%20of%20adding%20bugs%20until%20the%20program%20doesn%27t%20work.)
 
-> **"My code worked yesterday. Today, it knows too much."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%20worked%20yesterday.%20Today%2C%20it%20knows%20too%20much.)
+> **"AI generated 10,000 lines of code, then committed 'fixed typo'."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20generated%2010%2C000%20lines%20of%20code%2C%20then%20committed%20%27fixed%20typo%27.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 11 | 55% |
-| 🥈 **Gemini** | 0 | 5 | 25% |
-| 🥉 **Claude** | 0 | 4 | 20% |
+| 🥇 **ChatGPT** | 0 | 12 | 57% |
+| 🥈 **Gemini** | 0 | 5 | 24% |
+| 🥉 **Claude** | 0 | 4 | 19% |
 
 </div>
 
