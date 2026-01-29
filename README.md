@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a date, it replied with a NaN."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20date%2C%20it%20replied%20with%20a%20NaN.)
+> **"I asked my AI for a programming joke, but all it returned was "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20programming%20joke%2C%20but%20all%20it%20returned%20was%20%22null%22.)
 
-> **"The art of adding bugs until the program doesn't work."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20art%20of%20adding%20bugs%20until%20the%20program%20doesn%27t%20work.)
+> **"Debugging without coffee is a feature, not a bug."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20feature%2C%20not%20a%20bug.)
 
-> **"AI generated 10,000 lines of code, then committed 'fixed typo'."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20generated%2010%2C000%20lines%20of%20code%2C%20then%20committed%20%27fixed%20typo%27.)
+> **"My Copilot suggested `undefined`. I've never felt more understood."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20Copilot%20suggested%20%60undefined%60.%20I%27ve%20never%20felt%20more%20understood.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 12 | 57% |
-| 🥈 **Gemini** | 1 | 5 | 24% |
-| 🥉 **Claude** | 0 | 4 | 19% |
+| 🥇 **ChatGPT** | 0 | 12 | 55% |
+| 🥈 **Gemini** | 0 | 6 | 27% |
+| 🥉 **Claude** | 0 | 4 | 18% |
 
 </div>
 
