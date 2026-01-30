@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for a programming joke, but all it returned was "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20programming%20joke%2C%20but%20all%20it%20returned%20was%20%22null%22.)
+> **"I asked my AI to write me a joke about code, but all I got was NULL."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20me%20a%20joke%20about%20code%2C%20but%20all%20I%20got%20was%20NULL.)
 
-> **"Debugging without coffee is a feature, not a bug."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20feature%2C%20not%20a%20bug.)
+> **"The only bug in my code is optimism."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20only%20bug%20in%20my%20code%20is%20optimism.)
 
-> **"My Copilot suggested `undefined`. I've never felt more understood."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20Copilot%20suggested%20%60undefined%60.%20I%27ve%20never%20felt%20more%20understood.)
+> **"My AI pair programmer just committed `console.log('why')`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20pair%20programmer%20just%20committed%20%60console.log%28%27why%27%29%60.)
 
 <div align="center">
 
