@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI to write me a joke about code, but all I got was NULL."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20me%20a%20joke%20about%20code%2C%20but%20all%20I%20got%20was%20NULL.)
+> **"I use AI to create bugs so I can blame it for my mistakes."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20use%20AI%20to%20create%20bugs%20so%20I%20can%20blame%20it%20for%20my%20mistakes.)
 
-> **"The only bug in my code is optimism."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20only%20bug%20in%20my%20code%20is%20optimism.)
+> **"The art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20art%20of%20adding%20bugs%20to%20fix%20other%20bugs.)
 
-> **"My AI pair programmer just committed `console.log('why')`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20pair%20programmer%20just%20committed%20%60console.log%28%27why%27%29%60.)
+> **"It works on my machine, which apparently runs on quantum entanglement."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+It%20works%20on%20my%20machine%2C%20which%20apparently%20runs%20on%20quantum%20entanglement.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 12 | 55% |
-| 🥈 **Gemini** | 0 | 6 | 27% |
-| 🥉 **Claude** | 1 | 4 | 18% |
+| 🥇 **ChatGPT** | 0 | 12 | 52% |
+| 🥈 **Gemini** | 0 | 6 | 26% |
+| 🥉 **Claude** | 0 | 5 | 22% |
 
 </div>
 
