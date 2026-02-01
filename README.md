@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I use AI to create bugs so I can blame it for my mistakes."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20use%20AI%20to%20create%20bugs%20so%20I%20can%20blame%20it%20for%20my%20mistakes.)
+> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
 
-> **"The art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20art%20of%20adding%20bugs%20to%20fix%20other%20bugs.)
+> **"they're invisible until you forget them."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+they%27re%20invisible%20until%20you%20forget%20them.)
 
-> **"It works on my machine, which apparently runs on quantum entanglement."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+It%20works%20on%20my%20machine%2C%20which%20apparently%20runs%20on%20quantum%20entanglement.)
+> **"AI will code your future, but still can't find my missing semicolon."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20code%20your%20future%2C%20but%20still%20can%27t%20find%20my%20missing%20semicolon.)
 
 <div align="center">
 
