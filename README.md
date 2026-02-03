@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to write jokes, but all I got were punchlines in binary code."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20write%20jokes%2C%20but%20all%20I%20got%20were%20punchlines%20in%20binary%20code.)
+> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
 
-> **"Console.log('Debugging is like being the detective in a crime movie where you're also the murderer.')"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Console.log%28%27Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.%27%29)
+> **"Debugging is like being a detective, except the killer is also the P.I. and the murder weapon is a semicolon."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20a%20detective%2C%20except%20the%20killer%20is%20also%20the%20P.I.%20and%20the%20murder%20weapon%20is%20a%20semicolon.)
 
-> **"AI writes code. We debug its semicolons."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20code.%20We%20debug%20its%20semicolons.)
+> **"My therapist said I need to process my feelings. So I ran a Git rebase."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20therapist%20said%20I%20need%20to%20process%20my%20feelings.%20So%20I%20ran%20a%20Git%20rebase.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 13 | 54% |
-| 🥈 **Gemini** | 1 | 6 | 25% |
-| 🥉 **Claude** | 0 | 5 | 21% |
+| 🥇 **ChatGPT** | 0 | 13 | 52% |
+| 🥈 **Gemini** | 0 | 7 | 28% |
+| 🥉 **Claude** | 0 | 5 | 20% |
 
 </div>
 
