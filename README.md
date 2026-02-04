@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
+> **"I asked my code for a performance review; it said I needed to Git better at branching out."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20performance%20review%3B%20it%20said%20I%20needed%20to%20Git%20better%20at%20branching%20out.)
 
-> **"Debugging is like being a detective, except the killer is also the P.I. and the murder weapon is a semicolon."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20a%20detective%2C%20except%20the%20killer%20is%20also%20the%20P.I.%20and%20the%20murder%20weapon%20is%20a%20semicolon.)
+> **"Coffee, code, and constant despair — the unholy trinity of software development."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Coffee%2C%20code%2C%20and%20constant%20despair%20%E2%80%94%20the%20unholy%20trinity%20of%20software%20development.)
 
-> **"My therapist said I need to process my feelings. So I ran a Git rebase."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20therapist%20said%20I%20need%20to%20process%20my%20feelings.%20So%20I%20ran%20a%20Git%20rebase.)
+> **"AI writes code. We debug it. The circle of tech life continues."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20code.%20We%20debug%20it.%20The%20circle%20of%20tech%20life%20continues.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 13 | 52% |
-| 🥈 **Gemini** | 1 | 7 | 28% |
-| 🥉 **Claude** | 0 | 5 | 20% |
+| 🥇 **ChatGPT** | 0 | 13 | 50% |
+| 🥈 **Gemini** | 0 | 8 | 31% |
+| 🥉 **Claude** | 0 | 5 | 19% |
 
 </div>
 
