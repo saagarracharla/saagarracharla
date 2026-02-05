@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a performance review; it said I needed to Git better at branching out."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20performance%20review%3B%20it%20said%20I%20needed%20to%20Git%20better%20at%20branching%20out.)
+> **"If debugging is the process of removing bugs, then programming must be the process of putting them in."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.)
 
-> **"Coffee, code, and constant despair — the unholy trinity of software development."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Coffee%2C%20code%2C%20and%20constant%20despair%20%E2%80%94%20the%20unholy%20trinity%20of%20software%20development.)
+> **"99 problems but a bug ain't one."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+99%20problems%20but%20a%20bug%20ain%27t%20one.)
 
-> **"AI writes code. We debug it. The circle of tech life continues."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20code.%20We%20debug%20it.%20The%20circle%20of%20tech%20life%20continues.)
+> **"AI won't take our jobs. It'll just write new bugs faster."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20won%27t%20take%20our%20jobs.%20It%27ll%20just%20write%20new%20bugs%20faster.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 13 | 50% |
-| 🥈 **Gemini** | 0 | 8 | 31% |
+| 🥇 **ChatGPT** | 0 | 14 | 52% |
+| 🥈 **Gemini** | 0 | 8 | 30% |
 | 🥉 **Claude** | 0 | 5 | 19% |
 
 </div>
