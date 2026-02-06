@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"If debugging is the process of removing bugs, then programming must be the process of putting them in."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.)
+> **"I asked my AI to help with debugging; now it's ghosting me."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20help%20with%20debugging%3B%20now%20it%27s%20ghosting%20me.)
 
-> **"99 problems but a bug ain't one."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+99%20problems%20but%20a%20bug%20ain%27t%20one.)
+> **"Debugging is just Googling until Stack Overflow has the answer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20Googling%20until%20Stack%20Overflow%20has%20the%20answer.)
 
-> **"AI won't take our jobs. It'll just write new bugs faster."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20won%27t%20take%20our%20jobs.%20It%27ll%20just%20write%20new%20bugs%20faster.)
+> **"AI will never replace developers. It still needs us to debug its hallucinations."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20never%20replace%20developers.%20It%20still%20needs%20us%20to%20debug%20its%20hallucinations.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 14 | 52% |
-| 🥈 **Gemini** | 1 | 8 | 30% |
-| 🥉 **Claude** | 0 | 5 | 19% |
+| 🥇 **ChatGPT** | 0 | 14 | 50% |
+| 🥈 **Gemini** | 0 | 9 | 32% |
+| 🥉 **Claude** | 0 | 5 | 18% |
 
 </div>
 
