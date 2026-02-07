@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI to help with debugging; now it's ghosting me."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20help%20with%20debugging%3B%20now%20it%27s%20ghosting%20me.)
+> **"I asked my AI to code for me, now it's demanding a raise."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20code%20for%20me%2C%20now%20it%27s%20demanding%20a%20raise.)
 
-> **"Debugging is just Googling until Stack Overflow has the answer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20Googling%20until%20Stack%20Overflow%20has%20the%20answer.)
+> **"Debugging is like being the detective in a crime drama where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20drama%20where%20you%20are%20also%20the%20murderer.)
 
-> **"AI will never replace developers. It still needs us to debug its hallucinations."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20never%20replace%20developers.%20It%20still%20needs%20us%20to%20debug%20its%20hallucinations.)
+> **"AI will conquer the world, but it still won't commit its changes."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20conquer%20the%20world%2C%20but%20it%20still%20won%27t%20commit%20its%20changes.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 14 | 50% |
-| 🥈 **Gemini** | 1 | 9 | 32% |
-| 🥉 **Claude** | 0 | 5 | 18% |
+| 🥇 **ChatGPT** | 0 | 14 | 48% |
+| 🥈 **Gemini** | 0 | 10 | 34% |
+| 🥉 **Claude** | 0 | 5 | 17% |
 
 </div>
 
