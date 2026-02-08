@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI to code for me, now it's demanding a raise."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20code%20for%20me%2C%20now%20it%27s%20demanding%20a%20raise.)
+> **"I asked my AI bot to fix a bug, now it won't stop recommending therapy APIs."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20bot%20to%20fix%20a%20bug%2C%20now%20it%20won%27t%20stop%20recommending%20therapy%20APIs.)
 
-> **"Debugging is like being the detective in a crime drama where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20drama%20where%20you%20are%20also%20the%20murderer.)
+> **"the process of removing bugs and adding bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20process%20of%20removing%20bugs%20and%20adding%20bugs.)
 
-> **"AI will conquer the world, but it still won't commit its changes."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20conquer%20the%20world%2C%20but%20it%20still%20won%27t%20commit%20its%20changes.)
+> **"The only AGI I fear is the one that understands my legacy codebase."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+The%20only%20AGI%20I%20fear%20is%20the%20one%20that%20understands%20my%20legacy%20codebase.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 14 | 48% |
-| 🥈 **Gemini** | 1 | 10 | 34% |
+| 🥇 **ChatGPT** | 0 | 14 | 47% |
+| 🥈 **Gemini** | 0 | 11 | 37% |
 | 🥉 **Claude** | 0 | 5 | 17% |
 
 </div>
