@@ -38,9 +38,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my Git repo for a commit, and it responded with "You can't handle the truth!"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20Git%20repo%20for%20a%20commit%2C%20and%20it%20responded%20with%20%22You%20can%27t%20handle%20the%20truth%21%22.)
+> **"When I see bugs in my code, I just pretend they're feature creep."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+When%20I%20see%20bugs%20in%20my%20code%2C%20I%20just%20pretend%20they%27re%20feature%20creep.)
 
-> **"Debugging is just finding the missing semicolon in the coffee-stained code."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20missing%20semicolon%20in%20the%20coffee-stained%20code.)
+> **"the art of removing bugs from your code and adding them to your resume."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20removing%20bugs%20from%20your%20code%20and%20adding%20them%20to%20your%20resume.)
 
 > **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
