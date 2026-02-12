@@ -4,11 +4,11 @@
     "wins": 15
   },
   "Claude": {
-    "votes": 1,
-    "wins": 5
+    "votes": 0,
+    "wins": 6
   },
   "Gemini": {
-    "votes": 1,
+    "votes": 0,
     "wins": 11
   }
 }
