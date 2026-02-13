@@ -38,9 +38,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked a programmer why coffee was essential for coding. He replied, "It helps Java properly!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20programmer%20why%20coffee%20was%20essential%20for%20coding.%20He%20replied%2C%20%22It%20helps%20Java%20properly%21)
+> **"I asked my computer out on a date but it kept giving me a Null Pointer Exception."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20out%20on%20a%20date%20but%20it%20kept%20giving%20me%20a%20Null%20Pointer%20Exception.)
 
-> **"the easiest way to find a needle in a Stack Overflow."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20easiest%20way%20to%20find%20a%20needle%20in%20a%20Stack%20Overflow.)
+> **"the art of adding bugs in an attempt to remove them."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20in%20an%20attempt%20to%20remove%20them.)
 
 > **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 15 | 47% |
-| 🥈 **Gemini** | 1 | 11 | 34% |
-| 🥉 **Claude** | 0 | 6 | 19% |
+| 🥇 **ChatGPT** | 0 | 15 | 45% |
+| 🥈 **Gemini** | 0 | 12 | 36% |
+| 🥉 **Claude** | 0 | 6 | 18% |
 
 </div>
 
