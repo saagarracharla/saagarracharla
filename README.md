@@ -38,9 +38,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer out on a date but it kept giving me a Null Pointer Exception."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20out%20on%20a%20date%20but%20it%20kept%20giving%20me%20a%20Null%20Pointer%20Exception.)
+> **"I asked my AI to write a joke about programming. It said, "I'm sorry, I don't have the bandwidth for that."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20a%20joke%20about%20programming.%20It%20said%2C%20%22I%27m%20sorry%2C%20I%20don%27t%20have%20the%20bandwidth%20for%20that.)
 
-> **"the art of adding bugs in an attempt to remove them."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20in%20an%20attempt%20to%20remove%20them.)
+> **"Debugging is like being the detective in a murder mystery where you already know the victim, the murderer, and the weapon."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20murder%20mystery%20where%20you%20already%20know%20the%20victim%2C%20the%20murderer%2C%20and%20the%20weapon.)
 
 > **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 15 | 45% |
-| 🥈 **Gemini** | 1 | 12 | 36% |
+| 🥇 **ChatGPT** | 0 | 15 | 44% |
+| 🥈 **Gemini** | 0 | 13 | 38% |
 | 🥉 **Claude** | 0 | 6 | 18% |
 
 </div>
