@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"Did you hear about the programmer who got stuck in an infinite loop? He couldn't Git out!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Did%20you%20hear%20about%20the%20programmer%20who%20got%20stuck%20in%20an%20infinite%20loop%3F%20He%20couldn%27t%20Git%20out%21)
+> **"I asked my app for a Dad Joke API, now it just keeps repeating "Hello, Dad Joke API" endlessly."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20app%20for%20a%20Dad%20Joke%20API%2C%20now%20it%20just%20keeps%20repeating%20%22Hello%2C%20Dad%20Joke%20API%22%20endlessly.)
 
-> **"Debugging is just fishing for Heisenbug."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20fishing%20for%20Heisenbug.)
+> **"Bugs are just feature requests from the future."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20feature%20requests%20from%20the%20future.)
 
-> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
+> **"It blames the user. Me too."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+It%20blames%20the%20user.%20Me%20too.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 15 | 43% |
-| 🥈 **Gemini** | 0 | 14 | 40% |
+| 🥇 **ChatGPT** | 0 | 16 | 44% |
+| 🥈 **Gemini** | 0 | 14 | 39% |
 | 🥉 **Claude** | 0 | 6 | 17% |
 
 </div>
