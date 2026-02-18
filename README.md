@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my app for a Dad Joke API, now it just keeps repeating "Hello, Dad Joke API" endlessly."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20app%20for%20a%20Dad%20Joke%20API%2C%20now%20it%20just%20keeps%20repeating%20%22Hello%2C%20Dad%20Joke%20API%22%20endlessly.)
+> **"I'm not lazy, I'm just on Git commit time."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20Git%20commit%20time.)
 
-> **"Bugs are just feature requests from the future."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20feature%20requests%20from%20the%20future.)
+> **"Debugging is like being the detective in a Cluedo game, but everyone's a suspect and the murder weapon is a semicolon."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20Cluedo%20game%2C%20but%20everyone%27s%20a%20suspect%20and%20the%20murder%20weapon%20is%20a%20semicolon.)
 
-> **"It blames the user. Me too."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+It%20blames%20the%20user.%20Me%20too.)
+> **"My AI model just asked me for a Stack Overflow link."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20just%20asked%20me%20for%20a%20Stack%20Overflow%20link.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 16 | 44% |
-| 🥈 **Gemini** | 0 | 14 | 39% |
-| 🥉 **Claude** | 1 | 6 | 17% |
+| 🥇 **ChatGPT** | 0 | 16 | 43% |
+| 🥈 **Gemini** | 0 | 14 | 38% |
+| 🥉 **Claude** | 0 | 7 | 19% |
 
 </div>
 
