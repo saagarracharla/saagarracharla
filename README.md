@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm not lazy, I'm just on Git commit time."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20Git%20commit%20time.)
+> **"I asked a QA engineer to tell me a joke. They said, "Our software doesn't have any bugs."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20QA%20engineer%20to%20tell%20me%20a%20joke.%20They%20said%2C%20%22Our%20software%20doesn%27t%20have%20any%20bugs.)
 
-> **"Debugging is like being the detective in a Cluedo game, but everyone's a suspect and the murder weapon is a semicolon."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20Cluedo%20game%2C%20but%20everyone%27s%20a%20suspect%20and%20the%20murder%20weapon%20is%20a%20semicolon.)
+> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
 
-> **"My AI model just asked me for a Stack Overflow link."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20just%20asked%20me%20for%20a%20Stack%20Overflow%20link.)
+> **"My AI model just asked me for a pull request. I'm scared."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20just%20asked%20me%20for%20a%20pull%20request.%20I%27m%20scared.)
 
 <div align="center">
 
