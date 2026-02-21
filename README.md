@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant to debug my code. It replied, "I'm sorry, Dave, I'm afraid I can't do that."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20debug%20my%20code.%20It%20replied%2C%20%22I%27m%20sorry%2C%20Dave%2C%20I%27m%20afraid%20I%20can%27t%20do%20that.)
+> **"I love coding errors, they make me feel alive!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20love%20coding%20errors%2C%20they%20make%20me%20feel%20alive%21)
 
-> **"Debugging is just programming with fewer semicolons."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20with%20fewer%20semicolons.)
+> **""It's not a bug, it's a feature - blessed by the Git gods."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+%22It%27s%20not%20a%20bug%2C%20it%27s%20a%20feature%20-%20blessed%20by%20the%20Git%20gods.)
 
-> **"My AI model hallucinated a new version of Git. It only has `git panic`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20hallucinated%20a%20new%20version%20of%20Git.%20It%20only%20has%20%60git%20panic%60.)
+> **"My AI model was trained on my documentation. It just apologized for the inconsistencies."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20was%20trained%20on%20my%20documentation.%20It%20just%20apologized%20for%20the%20inconsistencies.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 45% |
-| 🥈 **Gemini** | 1 | 14 | 37% |
+| 🥇 **ChatGPT** | 0 | 17 | 44% |
+| 🥈 **Gemini** | 0 | 15 | 38% |
 | 🥉 **Claude** | 0 | 7 | 18% |
 
 </div>
