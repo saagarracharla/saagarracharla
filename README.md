@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I love coding errors, they make me feel alive!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20love%20coding%20errors%2C%20they%20make%20me%20feel%20alive%21)
+> **"I asked my AI assistant for a joke. It told me to check the stack overflow."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20for%20a%20joke.%20It%20told%20me%20to%20check%20the%20stack%20overflow.)
 
-> **""It's not a bug, it's a feature - blessed by the Git gods."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+%22It%27s%20not%20a%20bug%2C%20it%27s%20a%20feature%20-%20blessed%20by%20the%20Git%20gods.)
+> **"the art of walking a dog through a minefield of semicolons."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20walking%20a%20dog%20through%20a%20minefield%20of%20semicolons.)
 
-> **"My AI model was trained on my documentation. It just apologized for the inconsistencies."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20was%20trained%20on%20my%20documentation.%20It%20just%20apologized%20for%20the%20inconsistencies.)
+> **"AI wrote this, and it still couldn't fix my CSS."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20and%20it%20still%20couldn%27t%20fix%20my%20CSS.)
 
 <div align="center">
 
