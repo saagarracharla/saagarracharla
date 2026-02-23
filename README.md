@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant for a joke. It told me to check the stack overflow."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20for%20a%20joke.%20It%20told%20me%20to%20check%20the%20stack%20overflow.)
+> **"I asked my AI for a joke about bugs in my code, and it replied, "I'm sorry, I can't do that Dave."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20joke%20about%20bugs%20in%20my%20code%2C%20and%20it%20replied%2C%20%22I%27m%20sorry%2C%20I%20can%27t%20do%20that%20Dave.)
 
-> **"the art of walking a dog through a minefield of semicolons."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20walking%20a%20dog%20through%20a%20minefield%20of%20semicolons.)
+> **"Where you spend 90% of your time 10% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Where%20you%20spend%2090%25%20of%20your%20time%2010%25%20of%20the%20time.)
 
-> **"AI wrote this, and it still couldn't fix my CSS."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20and%20it%20still%20couldn%27t%20fix%20my%20CSS.)
+> **"My code only works on Tuesdays, between 2 PM and 3 PM, on a full moon."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%20only%20works%20on%20Tuesdays%2C%20between%202%20PM%20and%203%20PM%2C%20on%20a%20full%20moon.)
 
 <div align="center">
 
