@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for a joke about bugs in my code, and it replied, "I'm sorry, I can't do that Dave."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20a%20joke%20about%20bugs%20in%20my%20code%2C%20and%20it%20replied%2C%20%22I%27m%20sorry%2C%20I%20can%27t%20do%20that%20Dave.)
+> **"I asked my code to commit to a relationship, but it just kept pushing me away."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20to%20commit%20to%20a%20relationship%2C%20but%20it%20just%20kept%20pushing%20me%20away.)
 
-> **"Where you spend 90% of your time 10% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Where%20you%20spend%2090%25%20of%20your%20time%2010%25%20of%20the%20time.)
+> **"Refactored my code to use a try-catch-finally block - now it's 100% bug-free, 99% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Refactored%20my%20code%20to%20use%20a%20try-catch-finally%20block%20-%20now%20it%27s%20100%25%20bug-free%2C%2099%25%20of%20the%20time.)
 
-> **"My code only works on Tuesdays, between 2 PM and 3 PM, on a full moon."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%20only%20works%20on%20Tuesdays%2C%20between%202%20PM%20and%203%20PM%2C%20on%20a%20full%20moon.)
+> **"My AI pair thinks `await` is just a polite suggestion."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20pair%20thinks%20%60await%60%20is%20just%20a%20polite%20suggestion.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 44% |
-| 🥈 **Gemini** | 1 | 15 | 38% |
+| 🥇 **ChatGPT** | 0 | 17 | 42% |
+| 🥈 **Gemini** | 0 | 16 | 40% |
 | 🥉 **Claude** | 0 | 7 | 18% |
 
 </div>
