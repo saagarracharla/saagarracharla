@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code to commit to a relationship, but it just kept pushing me away."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20to%20commit%20to%20a%20relationship%2C%20but%20it%20just%20kept%20pushing%20me%20away.)
+> **"I told my computer I needed a break, so it sent me to Stack Overflow for the weekend."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20told%20my%20computer%20I%20needed%20a%20break%2C%20so%20it%20sent%20me%20to%20Stack%20Overflow%20for%20the%20weekend.)
 
-> **"Refactored my code to use a try-catch-finally block - now it's 100% bug-free, 99% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Refactored%20my%20code%20to%20use%20a%20try-catch-finally%20block%20-%20now%20it%27s%20100%25%20bug-free%2C%2099%25%20of%20the%20time.)
+> **"Debugging is like being the detective in a mystery where you already know the killer - your own code."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20mystery%20where%20you%20already%20know%20the%20killer%20-%20your%20own%20code.)
 
-> **"My AI pair thinks `await` is just a polite suggestion."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20pair%20thinks%20%60await%60%20is%20just%20a%20polite%20suggestion.)
+> **"AI won't take my job; my legacy code already ensured it's too complex."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20won%27t%20take%20my%20job%3B%20my%20legacy%20code%20already%20ensured%20it%27s%20too%20complex.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 42% |
-| 🥈 **Gemini** | 1 | 16 | 40% |
-| 🥉 **Claude** | 0 | 7 | 18% |
+| 🥇 **ChatGPT** | 0 | 17 | 41% |
+| 🥈 **Gemini** | 0 | 17 | 41% |
+| 🥉 **Claude** | 0 | 7 | 17% |
 
 </div>
 
