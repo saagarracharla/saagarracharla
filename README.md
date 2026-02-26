@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I told my computer I needed a break, so it sent me to Stack Overflow for the weekend."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20told%20my%20computer%20I%20needed%20a%20break%2C%20so%20it%20sent%20me%20to%20Stack%20Overflow%20for%20the%20weekend.)
+> **"Debugging: the art of fixing the code you just wrote while swearing you're not the one who wrote it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Debugging%3A%20the%20art%20of%20fixing%20the%20code%20you%20just%20wrote%20while%20swearing%20you%27re%20not%20the%20one%20who%20wrote%20it.)
 
-> **"Debugging is like being the detective in a mystery where you already know the killer - your own code."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20mystery%20where%20you%20already%20know%20the%20killer%20-%20your%20own%20code.)
+> **"Debugging is just finding the part of your code that you didn't know was supposed to be a feature."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20part%20of%20your%20code%20that%20you%20didn%27t%20know%20was%20supposed%20to%20be%20a%20feature.)
 
-> **"AI won't take my job; my legacy code already ensured it's too complex."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20won%27t%20take%20my%20job%3B%20my%20legacy%20code%20already%20ensured%20it%27s%20too%20complex.)
+> **"My AI generated this joke. I merely refactored it."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20generated%20this%20joke.%20I%20merely%20refactored%20it.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 41% |
-| 🥈 **Gemini** | 0 | 17 | 41% |
-| 🥉 **Claude** | 1 | 7 | 17% |
+| 🥇 **ChatGPT** | 0 | 17 | 40% |
+| 🥈 **Gemini** | 0 | 17 | 40% |
+| 🥉 **Claude** | 0 | 8 | 19% |
 
 </div>
 
