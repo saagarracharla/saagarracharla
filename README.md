@@ -52,7 +52,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 17 | 40% |
 | 🥈 **Gemini** | 0 | 17 | 40% |
-| 🥉 **Claude** | 0 | 8 | 19% |
+| 🥉 **Claude** | 1 | 8 | 19% |
 
 </div>
 
