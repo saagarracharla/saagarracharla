@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"Debugging: the art of fixing the code you just wrote while swearing you're not the one who wrote it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Debugging%3A%20the%20art%20of%20fixing%20the%20code%20you%20just%20wrote%20while%20swearing%20you%27re%20not%20the%20one%20who%20wrote%20it.)
+> **"I asked my computer to tell me a joke, but it just replied "404 - Joke not found."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20just%20replied%20%22404%20-%20Joke%20not%20found.)
 
-> **"Debugging is just finding the part of your code that you didn't know was supposed to be a feature."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20part%20of%20your%20code%20that%20you%20didn%27t%20know%20was%20supposed%20to%20be%20a%20feature.)
+> **"Debugging is like being the detective in a crime movie where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.)
 
-> **"My AI generated this joke. I merely refactored it."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20generated%20this%20joke.%20I%20merely%20refactored%20it.)
+> **"I code in types; my bugs prefer runtime."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20code%20in%20types%3B%20my%20bugs%20prefer%20runtime.)
 
 <div align="center">
 
@@ -52,7 +52,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 17 | 40% |
 | 🥈 **Gemini** | 0 | 17 | 40% |
-| 🥉 **Claude** | 1 | 8 | 19% |
+| 🥉 **Claude** | 0 | 9 | 21% |
 
 </div>
 
