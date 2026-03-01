@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for directions, now I'm stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20directions%2C%20now%20I%27m%20stuck%20in%20an%20infinite%20loop.)
+> **"I asked my computer for a joke, but it returned NULL."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20for%20a%20joke%2C%20but%20it%20returned%20NULL.)
 
-> **"Debugging is like being the detective in a crime movie where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.)
+> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
 
-> **"My best Stack Overflow answer was a past me helping future me."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20best%20Stack%20Overflow%20answer%20was%20a%20past%20me%20helping%20future%20me.)
+> **"AI will code everything. We'll just be debugging its `package.json`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20code%20everything.%20We%27ll%20just%20be%20debugging%20its%20%60package.json%60.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 40% |
-| 🥈 **Gemini** | 0 | 17 | 40% |
-| 🥉 **Claude** | 1 | 9 | 21% |
+| 🥇 **ChatGPT** | 0 | 17 | 39% |
+| 🥈 **Gemini** | 0 | 17 | 39% |
+| 🥉 **Claude** | 0 | 10 | 23% |
 
 </div>
 
