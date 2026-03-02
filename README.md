@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 17 | 39% |
-| 🥈 **Gemini** | 0 | 17 | 39% |
+| 🥇 **Gemini** | 1 | 17 | 39% |
+| 🥈 **ChatGPT** | 0 | 17 | 39% |
 | 🥉 **Claude** | 0 | 10 | 23% |
 
 </div>
