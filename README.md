@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I would tell you a joke about UDP, but you might not get it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20would%20tell%20you%20a%20joke%20about%20UDP%2C%20but%20you%20might%20not%20get%20it.)
+> **"I asked a developer about his love life, he said, "I only commit to master."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20developer%20about%20his%20love%20life%2C%20he%20said%2C%20%22I%20only%20commit%20to%20master.)
 
-> **"Debugging is like being the detective in a crime movie where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.)
+> **"99 problems, but a semicolon ain't one."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+99%20problems%2C%20but%20a%20semicolon%20ain%27t%20one.)
 
-> **"My code's favorite feature is 'spontaneous self-correction' right before a demo."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%27s%20favorite%20feature%20is%20%27spontaneous%20self-correction%27%20right%20before%20a%20demo.)
+> **"`console.log` everything until the problem logs itself."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+%60console.log%60%20everything%20until%20the%20problem%20logs%20itself.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 0 | 18 | 40% |
-| 🥈 **ChatGPT** | 1 | 17 | 38% |
+| 🥇 **ChatGPT** | 0 | 18 | 39% |
+| 🥈 **Gemini** | 0 | 18 | 39% |
 | 🥉 **Claude** | 0 | 10 | 22% |
 
 </div>
