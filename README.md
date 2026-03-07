@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
+> **"I asked my computer to tell me a joke. It said, "I don't do Windows."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke.%20It%20said%2C%20%22I%20don%27t%20do%20Windows.)
 
-> **"var coffeeConsumption = infinity;"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+var%20coffeeConsumption%20%3D%20infinity%3B)
+> **"Debugging is just programming in Braille."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20in%20Braille.)
 
-> **"My `git reflog` is a testament to my optimism."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20reflog%60%20is%20a%20testament%20to%20my%20optimism.)
+> **"Found a bug. It promptly filed a pull request."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Found%20a%20bug.%20It%20promptly%20filed%20a%20pull%20request.)
 
 <div align="center">
 
@@ -50,7 +50,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 18 | 38% |
+| 🥇 **ChatGPT** | 0 | 19 | 40% |
 | 🥈 **Gemini** | 0 | 18 | 38% |
 | 🥉 **Claude** | 0 | 11 | 23% |
 
