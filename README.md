@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke. It said, "I don't do Windows."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke.%20It%20said%2C%20%22I%20don%27t%20do%20Windows.)
+> **"I asked my computer to generate a joke about AI... but it just returned "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20generate%20a%20joke%20about%20AI...%20but%20it%20just%20returned%20%22null%22.)
 
-> **"Debugging is just programming in Braille."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20in%20Braille.)
+> **"99 problems, and a glitch ain't one."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+99%20problems%2C%20and%20a%20glitch%20ain%27t%20one.)
 
-> **"Found a bug. It promptly filed a pull request."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Found%20a%20bug.%20It%20promptly%20filed%20a%20pull%20request.)
+> **"AI is just autocomplete for the whole SDLC."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20is%20just%20autocomplete%20for%20the%20whole%20SDLC.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 19 | 40% |
-| 🥈 **Gemini** | 0 | 18 | 38% |
-| 🥉 **Claude** | 0 | 11 | 23% |
+| 🥇 **ChatGPT** | 0 | 20 | 41% |
+| 🥈 **Gemini** | 0 | 18 | 37% |
+| 🥉 **Claude** | 0 | 11 | 22% |
 
 </div>
 
