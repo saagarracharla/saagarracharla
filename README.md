@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to generate a joke about AI... but it just returned "null"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20generate%20a%20joke%20about%20AI...%20but%20it%20just%20returned%20%22null%22.)
+> **"I asked my computer to tell me a joke, but it just returned NullPointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20just%20returned%20NullPointerException.)
 
-> **"99 problems, and a glitch ain't one."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+99%20problems%2C%20and%20a%20glitch%20ain%27t%20one.)
+> **"Semicolons are the duct tape of programming - they hold your code together, but God help you if you lose them."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Semicolons%20are%20the%20duct%20tape%20of%20programming%20-%20they%20hold%20your%20code%20together%2C%20but%20God%20help%20you%20if%20you%20lose%20them.)
 
-> **"AI is just autocomplete for the whole SDLC."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20is%20just%20autocomplete%20for%20the%20whole%20SDLC.)
+> **"My `git reflog` is just a journal of poor life choices."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20reflog%60%20is%20just%20a%20journal%20of%20poor%20life%20choices.)
 
 <div align="center">
 
