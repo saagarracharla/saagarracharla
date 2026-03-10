@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke, but it just returned NullPointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20just%20returned%20NullPointerException.)
+> **"I have a joke about UDP, but you might not get it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20have%20a%20joke%20about%20UDP%2C%20but%20you%20might%20not%20get%20it.)
 
-> **"Semicolons are the duct tape of programming - they hold your code together, but God help you if you lose them."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Semicolons%20are%20the%20duct%20tape%20of%20programming%20-%20they%20hold%20your%20code%20together%2C%20but%20God%20help%20you%20if%20you%20lose%20them.)
+> **"the art of adding bugs to code until it works as intended."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20to%20code%20until%20it%20works%20as%20intended.)
 
-> **"My `git reflog` is just a journal of poor life choices."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20reflog%60%20is%20just%20a%20journal%20of%20poor%20life%20choices.)
+> **"I code with one hand, debug with the other, and pray to prod with both."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20code%20with%20one%20hand%2C%20debug%20with%20the%20other%2C%20and%20pray%20to%20prod%20with%20both.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 20 | 41% |
-| 🥈 **Gemini** | 0 | 18 | 37% |
+| 🥇 **ChatGPT** | 0 | 21 | 42% |
+| 🥈 **Gemini** | 0 | 18 | 36% |
 | 🥉 **Claude** | 0 | 11 | 22% |
 
 </div>
