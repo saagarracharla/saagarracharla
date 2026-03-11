@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I have a joke about UDP, but you might not get it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20have%20a%20joke%20about%20UDP%2C%20but%20you%20might%20not%20get%20it.)
+> **"I asked my AI for debugging help, now it thinks it's my manager."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20debugging%20help%2C%20now%20it%20thinks%20it%27s%20my%20manager.)
 
-> **"the art of adding bugs to code until it works as intended."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20to%20code%20until%20it%20works%20as%20intended.)
+> **"Debugging without coffee is a Void pointer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20Void%20pointer.)
 
-> **"I code with one hand, debug with the other, and pray to prod with both."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20code%20with%20one%20hand%2C%20debug%20with%20the%20other%2C%20and%20pray%20to%20prod%20with%20both.)
+> **"My commit history is a cry for help disguised as version control."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20commit%20history%20is%20a%20cry%20for%20help%20disguised%20as%20version%20control.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 21 | 42% |
-| 🥈 **Gemini** | 0 | 18 | 36% |
+| 🥇 **ChatGPT** | 0 | 22 | 43% |
+| 🥈 **Gemini** | 0 | 18 | 35% |
 | 🥉 **Claude** | 0 | 11 | 22% |
 
 </div>
