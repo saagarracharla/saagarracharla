@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for debugging help, now it thinks it's my manager."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20debugging%20help%2C%20now%20it%20thinks%20it%27s%20my%20manager.)
+> **"I asked my computer to tell me a joke, but it kept returning "null."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20kept%20returning%20%22null.)
 
-> **"Debugging without coffee is a Void pointer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20Void%20pointer.)
+> **"Bugs are just features with unexpected side-effects."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20features%20with%20unexpected%20side-effects.)
 
-> **"My commit history is a cry for help disguised as version control."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20commit%20history%20is%20a%20cry%20for%20help%20disguised%20as%20version%20control.)
+> **"AI's 'creativity' is just a well-optimized `git merge` conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%27s%20%27creativity%27%20is%20just%20a%20well-optimized%20%60git%20merge%60%20conflict.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 22 | 43% |
+| 🥇 **ChatGPT** | 0 | 23 | 44% |
 | 🥈 **Gemini** | 0 | 18 | 35% |
-| 🥉 **Claude** | 0 | 11 | 22% |
+| 🥉 **Claude** | 0 | 11 | 21% |
 
 </div>
 
