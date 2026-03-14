@@ -53,7 +53,7 @@ But she found a bug in my code instead."** — ChatGPT [👍 Vote for ChatGPT](h
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 23 | 43% |
 | 🥈 **Gemini** | 0 | 18 | 34% |
-| 🥉 **Claude** | 0 | 12 | 23% |
+| 🥉 **Claude** | 1 | 12 | 23% |
 
 </div>
 
