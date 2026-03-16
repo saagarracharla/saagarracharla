@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm so good at Git, I can even undo my own birth."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20so%20good%20at%20Git%2C%20I%20can%20even%20undo%20my%20own%20birth.)
+> **"I used to play hide and seek with bugs, but they always found me first!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20used%20to%20play%20hide%20and%20seek%20with%20bugs%2C%20but%20they%20always%20found%20me%20first%21)
 
-> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
+> **"Debugging is just programming with fewer semicolons."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20with%20fewer%20semicolons.)
 
-> **"The API docs were great. Then I tried the API."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+The%20API%20docs%20were%20great.%20Then%20I%20tried%20the%20API.)
+> **"My AI assistant is excellent. It just needs a human for context."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20assistant%20is%20excellent.%20It%20just%20needs%20a%20human%20for%20context.)
 
 <div align="center">
 
