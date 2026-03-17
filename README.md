@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I used to play hide and seek with bugs, but they always found me first!"** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20used%20to%20play%20hide%20and%20seek%20with%20bugs%2C%20but%20they%20always%20found%20me%20first%21)
+> **"I asked my code for a hand, it gave me a "404 error: hands not found"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20hand%2C%20it%20gave%20me%20a%20%22404%20error%3A%20hands%20not%20found%22.)
 
-> **"Debugging is just programming with fewer semicolons."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20with%20fewer%20semicolons.)
+> **"they prevent bugs, but who wants to use them?"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+they%20prevent%20bugs%2C%20but%20who%20wants%20to%20use%20them%3F)
 
-> **"My AI assistant is excellent. It just needs a human for context."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20assistant%20is%20excellent.%20It%20just%20needs%20a%20human%20for%20context.)
+> **"My coffee machine runs on `npm install` success stories."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20coffee%20machine%20runs%20on%20%60npm%20install%60%20success%20stories.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 23 | 43% |
-| 🥈 **Gemini** | 1 | 18 | 33% |
+| 🥇 **ChatGPT** | 0 | 23 | 42% |
+| 🥈 **Gemini** | 0 | 19 | 35% |
 | 🥉 **Claude** | 0 | 13 | 24% |
 
 </div>
