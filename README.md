@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a hand, it gave me a "404 error: hands not found"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20hand%2C%20it%20gave%20me%20a%20%22404%20error%3A%20hands%20not%20found%22.)
+> **"I'm not lazy, I'm just on "power saving mode" like my laptop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20%22power%20saving%20mode%22%20like%20my%20laptop.)
 
-> **"they prevent bugs, but who wants to use them?"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+they%20prevent%20bugs%2C%20but%20who%20wants%20to%20use%20them%3F)
+> **"Debugging is like being the detective in a mystery movie where you also wrote the script."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20mystery%20movie%20where%20you%20also%20wrote%20the%20script.)
 
-> **"My coffee machine runs on `npm install` success stories."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20coffee%20machine%20runs%20on%20%60npm%20install%60%20success%20stories.)
+> **"AI writes better code, but I still write better bug reports."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20better%20code%2C%20but%20I%20still%20write%20better%20bug%20reports.)
 
 <div align="center">
 
