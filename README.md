@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm not lazy, I'm just on "power saving mode" like my laptop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20on%20%22power%20saving%20mode%22%20like%20my%20laptop.)
+> **"I asked my AI to write a joke about debugging, but it just returned "Bug"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20a%20joke%20about%20debugging%2C%20but%20it%20just%20returned%20%22Bug%22.)
 
-> **"Debugging is like being the detective in a mystery movie where you also wrote the script."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20mystery%20movie%20where%20you%20also%20wrote%20the%20script.)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
 
-> **"AI writes better code, but I still write better bug reports."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20better%20code%2C%20but%20I%20still%20write%20better%20bug%20reports.)
+> **"AI wrote this code. I'm just here to explain why it's not a hallucination."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%20code.%20I%27m%20just%20here%20to%20explain%20why%20it%27s%20not%20a%20hallucination.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 23 | 42% |
-| 🥈 **Gemini** | 1 | 19 | 35% |
-| 🥉 **Claude** | 0 | 13 | 24% |
+| 🥇 **ChatGPT** | 0 | 23 | 41% |
+| 🥈 **Gemini** | 0 | 20 | 36% |
+| 🥉 **Claude** | 0 | 13 | 23% |
 
 </div>
 
