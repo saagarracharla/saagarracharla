@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for a coffee break, now it's stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20coffee%20break%2C%20now%20it%27s%20stuck%20in%20an%20infinite%20loop.)
+> **"I asked my computer to tell me a joke, but it only returned null."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20only%20returned%20null.)
 
-> **"Debugging is like being the detective in a crime movie where you also written the script."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20written%20the%20script.)
+> **"Where you spend 90% of your time 10% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Where%20you%20spend%2090%25%20of%20your%20time%2010%25%20of%20the%20time.)
 
-> **"My 'git status' is always 'It's complicated'."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%27git%20status%27%20is%20always%20%27It%27s%20complicated%27.)
+> **"I optimized a `for` loop that ran 0 times. It's faster now."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20optimized%20a%20%60for%60%20loop%20that%20ran%200%20times.%20It%27s%20faster%20now.)
 
 <div align="center">
 
@@ -51,8 +51,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 23 | 40% |
-| 🥈 **Gemini** | 1 | 21 | 37% |
-| 🥉 **Claude** | 0 | 13 | 23% |
+| 🥈 **Gemini** | 0 | 22 | 38% |
+| 🥉 **Claude** | 0 | 13 | 22% |
 
 </div>
 
