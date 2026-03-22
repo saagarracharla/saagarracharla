@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke, but it only returned null."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%2C%20but%20it%20only%20returned%20null.)
+> **"I talk to APIs more than I talk to my family."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20talk%20to%20APIs%20more%20than%20I%20talk%20to%20my%20family.)
 
-> **"Where you spend 90% of your time 10% of the time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Where%20you%20spend%2090%25%20of%20your%20time%2010%25%20of%20the%20time.)
+> **"Debugging the meaning of life, one semicolon at a time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20the%20meaning%20of%20life%2C%20one%20semicolon%20at%20a%20time.)
 
-> **"I optimized a `for` loop that ran 0 times. It's faster now."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20optimized%20a%20%60for%60%20loop%20that%20ran%200%20times.%20It%27s%20faster%20now.)
+> **"AI will never replace me. Who will blame Git then?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20never%20replace%20me.%20Who%20will%20blame%20Git%20then%3F)
 
 <div align="center">
 
