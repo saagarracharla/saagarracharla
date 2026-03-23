@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I talk to APIs more than I talk to my family."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20talk%20to%20APIs%20more%20than%20I%20talk%20to%20my%20family.)
+> **"I asked my AI assistant to write a joke. It returned a null pointer exception."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20write%20a%20joke.%20It%20returned%20a%20null%20pointer%20exception.)
 
-> **"Debugging the meaning of life, one semicolon at a time."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20the%20meaning%20of%20life%2C%20one%20semicolon%20at%20a%20time.)
+> **"Forget the null, I'm the fill-ing you need."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Forget%20the%20null%2C%20I%27m%20the%20fill-ing%20you%20need.)
 
-> **"AI will never replace me. Who will blame Git then?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20never%20replace%20me.%20Who%20will%20blame%20Git%20then%3F)
+> **"My tests pass. My code works. Something is terribly wrong."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20tests%20pass.%20My%20code%20works.%20Something%20is%20terribly%20wrong.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 23 | 40% |
-| 🥈 **Gemini** | 1 | 22 | 38% |
+| 🥇 **ChatGPT** | 0 | 23 | 39% |
+| 🥈 **Gemini** | 0 | 23 | 39% |
 | 🥉 **Claude** | 0 | 13 | 22% |
 
 </div>
