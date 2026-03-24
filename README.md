@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant to write a joke. It returned a null pointer exception."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20write%20a%20joke.%20It%20returned%20a%20null%20pointer%20exception.)
+> **"I asked my AI assistant to write better code, but all it did was order more coffee."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20write%20better%20code%2C%20but%20all%20it%20did%20was%20order%20more%20coffee.)
 
-> **"Forget the null, I'm the fill-ing you need."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Forget%20the%20null%2C%20I%27m%20the%20fill-ing%20you%20need.)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
 
-> **"My tests pass. My code works. Something is terribly wrong."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20tests%20pass.%20My%20code%20works.%20Something%20is%20terribly%20wrong.)
+> **"AI-generated bugs are artisanal features."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI-generated%20bugs%20are%20artisanal%20features.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 1 | 23 | 39% |
-| 🥈 **ChatGPT** | 0 | 23 | 39% |
+| 🥇 **Gemini** | 0 | 24 | 40% |
+| 🥈 **ChatGPT** | 0 | 23 | 38% |
 | 🥉 **Claude** | 0 | 13 | 22% |
 
 </div>
