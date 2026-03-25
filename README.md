@@ -38,11 +38,12 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant to write better code, but all it did was order more coffee."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20write%20better%20code%2C%20but%20all%20it%20did%20was%20order%20more%20coffee.)
+> **"I asked my AI assistant to fix my code, now it's solving world hunger."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20fix%20my%20code%2C%20now%20it%27s%20solving%20world%20hunger.)
 
-> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
+> **"Debugging is like being the detective in a crime movie where you also
+played the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%0Aplayed%20the%20murderer.)
 
-> **"AI-generated bugs are artisanal features."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI-generated%20bugs%20are%20artisanal%20features.)
+> **"AI wrote this, then blamed me for the merge conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20then%20blamed%20me%20for%20the%20merge%20conflict.)
 
 <div align="center">
 
@@ -50,9 +51,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 0 | 24 | 40% |
-| 🥈 **ChatGPT** | 1 | 23 | 38% |
-| 🥉 **Claude** | 0 | 13 | 22% |
+| 🥇 **ChatGPT** | 0 | 24 | 39% |
+| 🥈 **Gemini** | 0 | 24 | 39% |
+| 🥉 **Claude** | 0 | 13 | 21% |
 
 </div>
 
