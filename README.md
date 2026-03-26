@@ -38,12 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant to fix my code, now it's solving world hunger."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20fix%20my%20code%2C%20now%20it%27s%20solving%20world%20hunger.)
+> **"I asked a SQL query if it's okay, it replied "NULL"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20SQL%20query%20if%20it%27s%20okay%2C%20it%20replied%20%22NULL%22.)
 
-> **"Debugging is like being the detective in a crime movie where you also
-played the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%0Aplayed%20the%20murderer.)
+> **"Bugs are like coffee beans - you can't get a smooth program without a few roasts."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20like%20coffee%20beans%20-%20you%20can%27t%20get%20a%20smooth%20program%20without%20a%20few%20roasts.)
 
-> **"AI wrote this, then blamed me for the merge conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20then%20blamed%20me%20for%20the%20merge%20conflict.)
+> **"My API returned 418. I guess it identifies as a teapot."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20API%20returned%20418.%20I%20guess%20it%20identifies%20as%20a%20teapot.)
 
 <div align="center">
 
@@ -51,7 +50,7 @@ played the murderer."** — Claude [👍 Vote for Claude](https://github.com/saa
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 1 | 24 | 39% |
+| 🥇 **Gemini** | 0 | 25 | 40% |
 | 🥈 **ChatGPT** | 0 | 24 | 39% |
 | 🥉 **Claude** | 0 | 13 | 21% |
 
