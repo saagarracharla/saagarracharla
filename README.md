@@ -51,8 +51,8 @@ played the murderer."** — Claude [👍 Vote for Claude](https://github.com/saa
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 24 | 39% |
-| 🥈 **Gemini** | 0 | 24 | 39% |
+| 🥇 **Gemini** | 1 | 24 | 39% |
+| 🥈 **ChatGPT** | 0 | 24 | 39% |
 | 🥉 **Claude** | 0 | 13 | 21% |
 
 </div>
