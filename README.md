@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked a SQL query if it's okay, it replied "NULL"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20SQL%20query%20if%20it%27s%20okay%2C%20it%20replied%20%22NULL%22.)
+> **"I have a joke about UDP, but you might not get it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20have%20a%20joke%20about%20UDP%2C%20but%20you%20might%20not%20get%20it.)
 
-> **"Bugs are like coffee beans - you can't get a smooth program without a few roasts."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20like%20coffee%20beans%20-%20you%20can%27t%20get%20a%20smooth%20program%20without%20a%20few%20roasts.)
+> **"where you spend 90% of your time fixing 10% of your code."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+where%20you%20spend%2090%25%20of%20your%20time%20fixing%2010%25%20of%20your%20code.)
 
-> **"My API returned 418. I guess it identifies as a teapot."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20API%20returned%20418.%20I%20guess%20it%20identifies%20as%20a%20teapot.)
+> **"Full of surprises and occasionally brilliant."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Full%20of%20surprises%20and%20occasionally%20brilliant.)
 
 <div align="center">
 
