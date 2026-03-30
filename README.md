@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke. It said, "I have so many bugs, I could open a debugging hotel."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke.%20It%20said%2C%20%22I%20have%20so%20many%20bugs%2C%20I%20could%20open%20a%20debugging%20hotel.)
+> **"I tried to fix a bug using AI, but it just made a feature suggestion."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20tried%20to%20fix%20a%20bug%20using%20AI%2C%20but%20it%20just%20made%20a%20feature%20suggestion.)
 
-> **"Bugs are the new features, Git is the new undo, and StackOverflow is the new Genius Bar."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20the%20new%20features%2C%20Git%20is%20the%20new%20undo%2C%20and%20StackOverflow%20is%20the%20new%20Genius%20Bar.)
+> **"the art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20to%20fix%20other%20bugs.)
 
-> **"AI will never replace developers. Who else will `git revert` the AI's changes?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20never%20replace%20developers.%20Who%20else%20will%20%60git%20revert%60%20the%20AI%27s%20changes%3F)
+> **"My CI/CD pipeline runs `it-works-on-my-machine.sh`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20CI%2FCD%20pipeline%20runs%20%60it-works-on-my-machine.sh%60.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 26 | 41% |
-| 🥈 **Gemini** | 0 | 25 | 39% |
-| 🥉 **Claude** | 1 | 13 | 20% |
+| 🥇 **ChatGPT** | 0 | 26 | 40% |
+| 🥈 **Gemini** | 0 | 25 | 38% |
+| 🥉 **Claude** | 0 | 14 | 22% |
 
 </div>
 
