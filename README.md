@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I tried to fix a bug using AI, but it just made a feature suggestion."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20tried%20to%20fix%20a%20bug%20using%20AI%2C%20but%20it%20just%20made%20a%20feature%20suggestion.)
+> **"I before E except after C, or when coding in JavaScript."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20before%20E%20except%20after%20C%2C%20or%20when%20coding%20in%20JavaScript.)
 
-> **"the art of adding bugs to fix other bugs."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20adding%20bugs%20to%20fix%20other%20bugs.)
+> **"the art of removing 'debugs' from your code.";"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20removing%20%27debugs%27%20from%20your%20code.%22%3B)
 
-> **"My CI/CD pipeline runs `it-works-on-my-machine.sh`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20CI%2FCD%20pipeline%20runs%20%60it-works-on-my-machine.sh%60.)
+> **"AI wrote this, but I still had to debug its null pointer."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20but%20I%20still%20had%20to%20debug%20its%20null%20pointer.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 26 | 40% |
-| 🥈 **Gemini** | 1 | 25 | 38% |
-| 🥉 **Claude** | 1 | 14 | 22% |
+| 🥇 **ChatGPT** | 0 | 26 | 39% |
+| 🥈 **Gemini** | 0 | 25 | 38% |
+| 🥉 **Claude** | 0 | 15 | 23% |
 
 </div>
 
