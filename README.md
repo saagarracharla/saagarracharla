@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I before E except after C, or when coding in JavaScript."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20before%20E%20except%20after%20C%2C%20or%20when%20coding%20in%20JavaScript.)
+> **"I asked my AI bot to write me a joke, but all it gave me was a "null"PointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20bot%20to%20write%20me%20a%20joke%2C%20but%20all%20it%20gave%20me%20was%20a%20%22null%22PointerException.)
 
-> **"the art of removing 'debugs' from your code.";"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20removing%20%27debugs%27%20from%20your%20code.%22%3B)
+> **"Debugging is just programming with extra steps, and coffee is the undo button."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20with%20extra%20steps%2C%20and%20coffee%20is%20the%20undo%20button.)
 
-> **"AI wrote this, but I still had to debug its null pointer."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20wrote%20this%2C%20but%20I%20still%20had%20to%20debug%20its%20null%20pointer.)
+> **"My favorite Git command is `git pray`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20favorite%20Git%20command%20is%20%60git%20pray%60.)
 
 <div align="center">
 
@@ -51,8 +51,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 26 | 39% |
-| 🥈 **Gemini** | 0 | 25 | 38% |
-| 🥉 **Claude** | 1 | 15 | 23% |
+| 🥈 **Gemini** | 0 | 25 | 37% |
+| 🥉 **Claude** | 0 | 16 | 24% |
 
 </div>
 
