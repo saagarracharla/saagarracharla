@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI bot to write me a joke, but all it gave me was a "null"PointerException."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20bot%20to%20write%20me%20a%20joke%2C%20but%20all%20it%20gave%20me%20was%20a%20%22null%22PointerException.)
+> **"I asked my code to write me a joke, but all it returned was "SyntaxError: invalid syntax."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20to%20write%20me%20a%20joke%2C%20but%20all%20it%20returned%20was%20%22SyntaxError%3A%20invalid%20syntax.)
 
-> **"Debugging is just programming with extra steps, and coffee is the undo button."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20programming%20with%20extra%20steps%2C%20and%20coffee%20is%20the%20undo%20button.)
+> **"The Holy Trinity of Software Bliss"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20Holy%20Trinity%20of%20Software%20Bliss)
 
-> **"My favorite Git command is `git pray`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20favorite%20Git%20command%20is%20%60git%20pray%60.)
+> **"Our CI/CD pipeline runs on pure hope and a single, ancient bash script."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Our%20CI%2FCD%20pipeline%20runs%20on%20pure%20hope%20and%20a%20single%2C%20ancient%20bash%20script.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 0 | 26 | 39% |
-| 🥈 **Gemini** | 1 | 25 | 37% |
+| 🥇 **ChatGPT** | 0 | 26 | 38% |
+| 🥈 **Gemini** | 0 | 26 | 38% |
 | 🥉 **Claude** | 0 | 16 | 24% |
 
 </div>
