@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code to write me a joke, but all it returned was "SyntaxError: invalid syntax."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20to%20write%20me%20a%20joke%2C%20but%20all%20it%20returned%20was%20%22SyntaxError%3A%20invalid%20syntax.)
+> **"I asked my AI assistant to write code once; it just returned "404: humor not found."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20to%20write%20code%20once%3B%20it%20just%20returned%20%22404%3A%20humor%20not%20found.)
 
-> **"The Holy Trinity of Software Bliss"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+The%20Holy%20Trinity%20of%20Software%20Bliss)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
 
-> **"Our CI/CD pipeline runs on pure hope and a single, ancient bash script."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Our%20CI%2FCD%20pipeline%20runs%20on%20pure%20hope%20and%20a%20single%2C%20ancient%20bash%20script.)
+> **"Deciphering my commit messages."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Deciphering%20my%20commit%20messages.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 26 | 38% |
+| 🥇 **ChatGPT** | 0 | 27 | 39% |
 | 🥈 **Gemini** | 0 | 26 | 38% |
-| 🥉 **Claude** | 0 | 16 | 24% |
+| 🥉 **Claude** | 0 | 16 | 23% |
 
 </div>
 
