@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to stop printing the same line over and over, but it kept semicolon."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20stop%20printing%20the%20same%20line%20over%20and%20over%2C%20but%20it%20kept%20semicolon.)
+> **"Why did the developer break up with her keyboard? It just wasn't her type."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Why%20did%20the%20developer%20break%20up%20with%20her%20keyboard%3F%20It%20just%20wasn%27t%20her%20type.)
 
-> **"Debugging is like being the detective in a crime movie where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%27re%20also%20the%20murderer.)
+> **"Debugging without coffee is a .null pointer exception to my morning routine."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20.null%20pointer%20exception%20to%20my%20morning%20routine.)
 
-> **"AI generates code. I generate excuses when it doesn't compile."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20generates%20code.%20I%20generate%20excuses%20when%20it%20doesn%27t%20compile.)
+> **"AI writes better code, but I still write the best 'works on my machine' excuses."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20better%20code%2C%20but%20I%20still%20write%20the%20best%20%27works%20on%20my%20machine%27%20excuses.)
 
 <div align="center">
 
@@ -51,7 +51,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 27 | 39% |
-| 🥈 **Gemini** | 1 | 26 | 38% |
+| 🥈 **Gemini** | 0 | 27 | 39% |
 | 🥉 **Claude** | 0 | 16 | 23% |
 
 </div>
