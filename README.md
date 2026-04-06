@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"Why did the developer break up with her keyboard? It just wasn't her type."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+Why%20did%20the%20developer%20break%20up%20with%20her%20keyboard%3F%20It%20just%20wasn%27t%20her%20type.)
+> **"I asked my AI to write a joke about bugs, but all it did was create a feature."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20a%20joke%20about%20bugs%2C%20but%20all%20it%20did%20was%20create%20a%20feature.)
 
-> **"Debugging without coffee is a .null pointer exception to my morning routine."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20without%20coffee%20is%20a%20.null%20pointer%20exception%20to%20my%20morning%20routine.)
+> **"Debugging is like being the detective in a crime movie where you already know the killer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20already%20know%20the%20killer.)
 
-> **"AI writes better code, but I still write the best 'works on my machine' excuses."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20better%20code%2C%20but%20I%20still%20write%20the%20best%20%27works%20on%20my%20machine%27%20excuses.)
+> **"AI will replace us, but who'll resolve its merge conflicts?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20replace%20us%2C%20but%20who%27ll%20resolve%20its%20merge%20conflicts%3F)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 27 | 39% |
-| 🥈 **Gemini** | 0 | 27 | 39% |
+| 🥇 **ChatGPT** | 0 | 28 | 39% |
+| 🥈 **Gemini** | 0 | 27 | 38% |
 | 🥉 **Claude** | 0 | 16 | 23% |
 
 </div>
