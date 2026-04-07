@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI to write a joke about bugs, but all it did was create a feature."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20to%20write%20a%20joke%20about%20bugs%2C%20but%20all%20it%20did%20was%20create%20a%20feature.)
+> **"I asked my computer for a joke. It returned NULL."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20for%20a%20joke.%20It%20returned%20NULL.)
 
-> **"Debugging is like being the detective in a crime movie where you already know the killer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20already%20know%20the%20killer.)
+> **"Debugging is just finding bugs, and then moving them to another location."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20bugs%2C%20and%20then%20moving%20them%20to%20another%20location.)
 
-> **"AI will replace us, but who'll resolve its merge conflicts?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20replace%20us%2C%20but%20who%27ll%20resolve%20its%20merge%20conflicts%3F)
+> **"I just optimized my sleep for better compile times."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20just%20optimized%20my%20sleep%20for%20better%20compile%20times.)
 
 <div align="center">
 
