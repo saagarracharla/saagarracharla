@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer for a joke. It returned NULL."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20for%20a%20joke.%20It%20returned%20NULL.)
+> **"I asked my AI assistant for a raise, it replied "Insufficient permissions."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20for%20a%20raise%2C%20it%20replied%20%22Insufficient%20permissions.)
 
-> **"Debugging is just finding bugs, and then moving them to another location."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20bugs%2C%20and%20then%20moving%20them%20to%20another%20location.)
+> **"Bugs are just GitHub issues with fewer commits."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20GitHub%20issues%20with%20fewer%20commits.)
 
-> **"I just optimized my sleep for better compile times."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20just%20optimized%20my%20sleep%20for%20better%20compile%20times.)
+> **"AI can code, but can it `git stash` without panic?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20can%20code%2C%20but%20can%20it%20%60git%20stash%60%20without%20panic%3F)
 
 <div align="center">
 
