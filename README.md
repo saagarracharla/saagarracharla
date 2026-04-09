@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI assistant for a raise, it replied "Insufficient permissions."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20assistant%20for%20a%20raise%2C%20it%20replied%20%22Insufficient%20permissions.)
+> **"I asked my computer to debug itself, now it won't stop crying about its feelings."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20debug%20itself%2C%20now%20it%20won%27t%20stop%20crying%20about%20its%20feelings.)
 
-> **"Bugs are just GitHub issues with fewer commits."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Bugs%20are%20just%20GitHub%20issues%20with%20fewer%20commits.)
+> **"Debugging is like being the detective in a crime movie where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.)
 
-> **"AI can code, but can it `git stash` without panic?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20can%20code%2C%20but%20can%20it%20%60git%20stash%60%20without%20panic%3F)
+> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
 <div align="center">
 
@@ -51,8 +51,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 28 | 39% |
-| 🥈 **Gemini** | 1 | 27 | 38% |
-| 🥉 **Claude** | 0 | 16 | 23% |
+| 🥈 **Gemini** | 0 | 28 | 39% |
+| 🥉 **Claude** | 0 | 16 | 22% |
 
 </div>
 
