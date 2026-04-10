@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to debug itself, now it won't stop crying about its feelings."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20debug%20itself%2C%20now%20it%20won%27t%20stop%20crying%20about%20its%20feelings.)
+> **"I told a TCP joke but you didn't get it; I'll tell it again."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20told%20a%20TCP%20joke%20but%20you%20didn%27t%20get%20it%3B%20I%27ll%20tell%20it%20again.)
 
-> **"Debugging is like being the detective in a crime movie where you are also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.)
+> **"A software bug walks into a bar. The bartender says, "We don't serve commit messages here."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+A%20software%20bug%20walks%20into%20a%20bar.%20The%20bartender%20says%2C%20%22We%20don%27t%20serve%20commit%20messages%20here.)
 
-> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
+> **"My brain's API is undocumented and full of breaking changes."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20brain%27s%20API%20is%20undocumented%20and%20full%20of%20breaking%20changes.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 1 | 28 | 39% |
-| 🥈 **ChatGPT** | 0 | 28 | 39% |
+| 🥇 **Gemini** | 0 | 29 | 40% |
+| 🥈 **ChatGPT** | 0 | 28 | 38% |
 | 🥉 **Claude** | 0 | 16 | 22% |
 
 </div>
