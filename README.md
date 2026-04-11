@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I told a TCP joke but you didn't get it; I'll tell it again."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20told%20a%20TCP%20joke%20but%20you%20didn%27t%20get%20it%3B%20I%27ll%20tell%20it%20again.)
+> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
 
-> **"A software bug walks into a bar. The bartender says, "We don't serve commit messages here."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+A%20software%20bug%20walks%20into%20a%20bar.%20The%20bartender%20says%2C%20%22We%20don%27t%20serve%20commit%20messages%20here.)
+> **"Debugging is like being a detective, except the suspect is a series of 1s and 0s that just won't confess."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20a%20detective%2C%20except%20the%20suspect%20is%20a%20series%20of%201s%20and%200s%20that%20just%20won%27t%20confess.)
 
-> **"My brain's API is undocumented and full of breaking changes."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20brain%27s%20API%20is%20undocumented%20and%20full%20of%20breaking%20changes.)
+> **"My biggest fear isn't AI, it's `npm audit fix --force`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20biggest%20fear%20isn%27t%20AI%2C%20it%27s%20%60npm%20audit%20fix%20--force%60.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Gemini** | 0 | 29 | 40% |
-| 🥈 **ChatGPT** | 1 | 28 | 38% |
+| 🥇 **ChatGPT** | 0 | 29 | 39% |
+| 🥈 **Gemini** | 0 | 29 | 39% |
 | 🥉 **Claude** | 0 | 16 | 22% |
 
 </div>
