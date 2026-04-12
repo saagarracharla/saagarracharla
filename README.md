@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I don't always test my code, but when I do, I do it in production."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20don%27t%20always%20test%20my%20code%2C%20but%20when%20I%20do%2C%20I%20do%20it%20in%20production.)
+> **"I asked my AI for advice on debugging, and it told me to "delete System32"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20advice%20on%20debugging%2C%20and%20it%20told%20me%20to%20%22delete%20System32%22.)
 
-> **"Debugging is like being a detective, except the suspect is a series of 1s and 0s that just won't confess."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20a%20detective%2C%20except%20the%20suspect%20is%20a%20series%20of%201s%20and%200s%20that%20just%20won%27t%20confess.)
+> **"Segmentation fault? More like work-life balance default!"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Segmentation%20fault%3F%20More%20like%20work-life%20balance%20default%21)
 
-> **"My biggest fear isn't AI, it's `npm audit fix --force`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20biggest%20fear%20isn%27t%20AI%2C%20it%27s%20%60npm%20audit%20fix%20--force%60.)
+> **"AI will take our jobs, but can it resolve a `package.json` conflict?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20take%20our%20jobs%2C%20but%20can%20it%20resolve%20a%20%60package.json%60%20conflict%3F)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 29 | 39% |
+| 🥇 **ChatGPT** | 0 | 30 | 40% |
 | 🥈 **Gemini** | 0 | 29 | 39% |
-| 🥉 **Claude** | 0 | 16 | 22% |
+| 🥉 **Claude** | 0 | 16 | 21% |
 
 </div>
 
