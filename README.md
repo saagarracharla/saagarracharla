@@ -75,5 +75,3 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 - **Email:** saagar.racharla@gmail.com
 
 ---
-
-*Building the future, one commit at a time.*
