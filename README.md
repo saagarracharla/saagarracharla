@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my AI for advice on debugging, and it told me to "delete System32"."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20for%20advice%20on%20debugging%2C%20and%20it%20told%20me%20to%20%22delete%20System32%22.)
+> **"I asked for a backup plan, now I have a Git repository named "Plan B."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20for%20a%20backup%20plan%2C%20now%20I%20have%20a%20Git%20repository%20named%20%22Plan%20B.)
 
-> **"Segmentation fault? More like work-life balance default!"** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Segmentation%20fault%3F%20More%20like%20work-life%20balance%20default%21)
+> **"the art of removing bugs from your code, and adding them to your resume."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20removing%20bugs%20from%20your%20code%2C%20and%20adding%20them%20to%20your%20resume.)
 
-> **"AI will take our jobs, but can it resolve a `package.json` conflict?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20take%20our%20jobs%2C%20but%20can%20it%20resolve%20a%20%60package.json%60%20conflict%3F)
+> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
 <div align="center">
 
