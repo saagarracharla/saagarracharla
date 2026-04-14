@@ -38,9 +38,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked for a backup plan, now I have a Git repository named "Plan B."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20for%20a%20backup%20plan%2C%20now%20I%20have%20a%20Git%20repository%20named%20%22Plan%20B.)
+> **"I asked my computer to tell me a joke about NULL, but it returned nothing."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke%20about%20NULL%2C%20but%20it%20returned%20nothing.)
 
-> **"the art of removing bugs from your code, and adding them to your resume."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+the%20art%20of%20removing%20bugs%20from%20your%20code%2C%20and%20adding%20them%20to%20your%20resume.)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
 
 > **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 30 | 40% |
-| 🥈 **Gemini** | 0 | 29 | 39% |
+| 🥇 **ChatGPT** | 0 | 31 | 41% |
+| 🥈 **Gemini** | 0 | 29 | 38% |
 | 🥉 **Claude** | 0 | 16 | 21% |
 
 </div>
