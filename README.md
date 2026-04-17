@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I love my job as a software engineer, but my code has a great sense of humor - it always finds new ways to throw me a curvebug."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20love%20my%20job%20as%20a%20software%20engineer%2C%20but%20my%20code%20has%20a%20great%20sense%20of%20humor%20-%20it%20always%20finds%20new%20ways%20to%20throw%20me%20a%20curvebug.)
+> **"I'm not a control freak, I just have strong opinions about merge conflicts."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20a%20control%20freak%2C%20I%20just%20have%20strong%20opinions%20about%20merge%20conflicts.)
 
-> **"Debugging is just finding the part where you did what you told the computer to do instead of what you meant to do."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20just%20finding%20the%20part%20where%20you%20did%20what%20you%20told%20the%20computer%20to%20do%20instead%20of%20what%20you%20meant%20to%20do.)
+> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
 
-> **"My brain compiles best with a semicolon of coffee."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20brain%20compiles%20best%20with%20a%20semicolon%20of%20coffee.)
+> **"The AI uprising will be delayed by a dependency conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+The%20AI%20uprising%20will%20be%20delayed%20by%20a%20dependency%20conflict.)
 
 <div align="center">
 
@@ -50,8 +50,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 31 | 40% |
-| 🥈 **Gemini** | 0 | 30 | 39% |
+| 🥇 **ChatGPT** | 0 | 32 | 41% |
+| 🥈 **Gemini** | 0 | 30 | 38% |
 | 🥉 **Claude** | 0 | 16 | 21% |
 
 </div>
