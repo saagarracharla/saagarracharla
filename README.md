@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm not a control freak, I just have strong opinions about merge conflicts."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20a%20control%20freak%2C%20I%20just%20have%20strong%20opinions%20about%20merge%20conflicts.)
+> **"I asked my code for advice, but it just threw me an error."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20advice%2C%20but%20it%20just%20threw%20me%20an%20error.)
 
-> **"Debugging is like being the detective in a crime movie where you also have to be the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20also%20have%20to%20be%20the%20murderer.)
+> **"too many caffeine-induced puns, syntax errors detected, redirecting to Stack Overflow for emergency bug fixes."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+too%20many%20caffeine-induced%20puns%2C%20syntax%20errors%20detected%2C%20redirecting%20to%20Stack%20Overflow%20for%20emergency%20bug%20fixes.)
 
-> **"The AI uprising will be delayed by a dependency conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+The%20AI%20uprising%20will%20be%20delayed%20by%20a%20dependency%20conflict.)
+> **"My AI assistant is great. It just tries to `git blame` my coffee cup."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20assistant%20is%20great.%20It%20just%20tries%20to%20%60git%20blame%60%20my%20coffee%20cup.)
 
 <div align="center">
 
