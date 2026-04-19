@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for advice, but it just threw me an error."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20advice%2C%20but%20it%20just%20threw%20me%20an%20error.)
+> **"I asked my AI therapist for advice, now it's stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20AI%20therapist%20for%20advice%2C%20now%20it%27s%20stuck%20in%20an%20infinite%20loop.)
 
-> **"too many caffeine-induced puns, syntax errors detected, redirecting to Stack Overflow for emergency bug fixes."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+too%20many%20caffeine-induced%20puns%2C%20syntax%20errors%20detected%2C%20redirecting%20to%20Stack%20Overflow%20for%20emergency%20bug%20fixes.)
+> **"Debugging is like being the detective in a crime drama where you're also the murderer."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20drama%20where%20you%27re%20also%20the%20murderer.)
 
-> **"My AI assistant is great. It just tries to `git blame` my coffee cup."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20assistant%20is%20great.%20It%20just%20tries%20to%20%60git%20blame%60%20my%20coffee%20cup.)
+> **"Commit early, commit often, and then `git revert` all of it."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+Commit%20early%2C%20commit%20often%2C%20and%20then%20%60git%20revert%60%20all%20of%20it.)
 
 <div align="center">
 
@@ -50,9 +50,9 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
-| 🥇 **ChatGPT** | 1 | 32 | 41% |
+| 🥇 **ChatGPT** | 0 | 33 | 42% |
 | 🥈 **Gemini** | 0 | 30 | 38% |
-| 🥉 **Claude** | 0 | 16 | 21% |
+| 🥉 **Claude** | 0 | 16 | 20% |
 
 </div>
 
