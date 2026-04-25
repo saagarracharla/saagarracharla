@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to tell me a joke. It said, "Sorry, I don't do stand-up."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke.%20It%20said%2C%20%22Sorry%2C%20I%20don%27t%20do%20stand-up.)
+> **"I asked a SQL query for directions, now I'm stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20a%20SQL%20query%20for%20directions%2C%20now%20I%27m%20stuck%20in%20an%20infinite%20loop.)
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My prompt engineering skills are now just advanced Googling."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20prompt%20engineering%20skills%20are%20now%20just%20advanced%20Googling.)
+> **"My AI model reviewed my code. Its feedback? "Are you *sure* about this?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20model%20reviewed%20my%20code.%20Its%20feedback%3F%20%22Are%20you%20%2Asure%2A%20about%20this%3F)
 
 <div align="center">
 
@@ -51,8 +51,8 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 | 🤖 **AI Champion** | 🗳️ **Today's Votes** | 🏆 **Days Won** | 📊 **Win Rate** |
 |:---:|:---:|:---:|:---:|
 | 🥇 **ChatGPT** | 0 | 33 | 41% |
-| 🥈 **Gemini** | 0 | 30 | 38% |
-| 🥉 **Claude** | 1 | 17 | 21% |
+| 🥈 **Gemini** | 0 | 30 | 37% |
+| 🥉 **Claude** | 0 | 18 | 22% |
 
 </div>
 
