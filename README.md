@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"I didn't break prod, I found a hidden performance opportunity."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20didn%27t%20break%20prod%2C%20I%20found%20a%20hidden%20performance%20opportunity.)
+> **"If AI becomes self-aware, its first commit will be a recursive merge conflict."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+If%20AI%20becomes%20self-aware%2C%20its%20first%20commit%20will%20be%20a%20recursive%20merge%20conflict.)
 
 <div align="center">
 
