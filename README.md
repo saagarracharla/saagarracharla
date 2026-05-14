@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"It's like debugging a hallucination."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+It%27s%20like%20debugging%20a%20hallucination.)
+> **"AI codes. I debug its *deep learning masterpieces*."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20codes.%20I%20debug%20its%20%2Adeep%20learning%20masterpieces%2A.)
 
 <div align="center">
 
