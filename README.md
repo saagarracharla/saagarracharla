@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My CI/CD pipeline runs on coffee, hope, and an ancient shell script."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20CI%2FCD%20pipeline%20runs%20on%20coffee%2C%20hope%2C%20and%20an%20ancient%20shell%20script.)
+> **"AI will replace us, but who will fix its dependency conflicts?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20replace%20us%2C%20but%20who%20will%20fix%20its%20dependency%20conflicts%3F)
 
 <div align="center">
 
