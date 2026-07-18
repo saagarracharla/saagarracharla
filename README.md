@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My `git blame` results always point to future me."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20%60git%20blame%60%20results%20always%20point%20to%20future%20me.)
+> **"My daily standup is just a commit log with eye contact."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20daily%20standup%20is%20just%20a%20commit%20log%20with%20eye%20contact.)
 
 <div align="center">
 
