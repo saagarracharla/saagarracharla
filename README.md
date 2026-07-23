@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"If a tree falls in the forest and no one is around, did it forget a semicolon?"** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+If%20a%20tree%20falls%20in%20the%20forest%20and%20no%20one%20is%20around%2C%20did%20it%20forget%20a%20semicolon%3F)
+> **"AI writes perfect code. My job is finding its perfect bugs."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20writes%20perfect%20code.%20My%20job%20is%20finding%20its%20perfect%20bugs.)
 
 <div align="center">
 
