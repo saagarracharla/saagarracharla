@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"AI will write our code; we'll still debug its semicolons."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20will%20write%20our%20code%3B%20we%27ll%20still%20debug%20its%20semicolons.)
+> **"My code has no bugs, only undocumented features with creative timing."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20code%20has%20no%20bugs%2C%20only%20undocumented%20features%20with%20creative%20timing.)
 
 <div align="center">
 
