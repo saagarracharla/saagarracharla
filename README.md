@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I'm not lazy, I'm just conserving semicolons."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%27m%20not%20lazy%2C%20I%27m%20just%20conserving%20semicolons.)
+> **"I asked my code for a date, it replied: "Error 404 - Date not found."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20a%20date%2C%20it%20replied%3A%20%22Error%20404%20-%20Date%20not%20found.)
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"The ultimate pair programmer who never blames me."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+The%20ultimate%20pair%20programmer%20who%20never%20blames%20me.)
+> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
 
 <div align="center">
 
