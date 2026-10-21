@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my computer to make me a cup of coffee, now it's stuck in an infinite loop."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20make%20me%20a%20cup%20of%20coffee%2C%20now%20it%27s%20stuck%20in%20an%20infinite%20loop.)
+> **"I asked my computer to tell me a joke. It replied, "404: Humor not found."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20computer%20to%20tell%20me%20a%20joke.%20It%20replied%2C%20%22404%3A%20Humor%20not%20found.)
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My AI's output isn't wrong, it's just confidently philosophical."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%27s%20output%20isn%27t%20wrong%2C%20it%27s%20just%20confidently%20philosophical.)
+> **"AI is great, but it still asks me to `npm install`."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20is%20great%2C%20but%20it%20still%20asks%20me%20to%20%60npm%20install%60.)
 
 <div align="center">
 
