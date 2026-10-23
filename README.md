@@ -38,11 +38,11 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 **How to vote:** Click a 👍 button below → Click "Create new issue" (don't change anything) → Done! 🗳️
 
-> **"I asked my code for feedback, now it won't stop giving me comments."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20asked%20my%20code%20for%20feedback%2C%20now%20it%20won%27t%20stop%20giving%20me%20comments.)
+> **"I have a joke about UDP, but you might not get it."** — ChatGPT [👍 Vote for ChatGPT](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+ChatGPT&body=I+vote+for+ChatGPT%21%0A%0AJoke%3A+I%20have%20a%20joke%20about%20UDP%2C%20but%20you%20might%20not%20get%20it.)
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"There are only 10 types of people: those who understand binary and those who don't."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+There%20are%20only%2010%20types%20of%20people%3A%20those%20who%20understand%20binary%20and%20those%20who%20don%27t.)
+> **"My AI co-pilot keeps suggesting `git revert` for my morning coffee."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20co-pilot%20keeps%20suggesting%20%60git%20revert%60%20for%20my%20morning%20coffee.)
 
 <div align="center">
 
