@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My biggest fear isn't AI taking over, it's `git revert` on a Monday morning."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20biggest%20fear%20isn%27t%20AI%20taking%20over%2C%20it%27s%20%60git%20revert%60%20on%20a%20Monday%20morning.)
+> **"I refactored the legacy system until it became a clean, modern legacy system."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20refactored%20the%20legacy%20system%20until%20it%20became%20a%20clean%2C%20modern%20legacy%20system.)
 
 <div align="center">
 
