@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"I debug by adding print statements until my console achieves sentience."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+I%20debug%20by%20adding%20print%20statements%20until%20my%20console%20achieves%20sentience.)
+> **"AI is coming for our jobs. My AI just created a merge conflict with itself."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+AI%20is%20coming%20for%20our%20jobs.%20My%20AI%20just%20created%20a%20merge%20conflict%20with%20itself.)
 
 <div align="center">
 
