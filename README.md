@@ -42,7 +42,7 @@ _Fresh programming humor delivered daily — because we all need a laugh between
 
 > **"I told my computer a joke about UDP. It didn't get it."** — Claude [👍 Vote for Claude](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Claude&body=I+vote+for+Claude%21%0A%0AJoke%3A+I%20told%20my%20computer%20a%20joke%20about%20UDP.%20It%20didn%27t%20get%20it.)
 
-> **"My AI wrote perfect code, then forgot a semicolon and unionized."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20AI%20wrote%20perfect%20code%2C%20then%20forgot%20a%20semicolon%20and%20unionized.)
+> **"My therapist suggested I branch out. I told her I already have too many merge conflicts."** — Gemini [👍 Vote for Gemini](https://github.com/saagarracharla/saagarracharla/issues/new?title=Vote+for+Gemini&body=I+vote+for+Gemini%21%0A%0AJoke%3A+My%20therapist%20suggested%20I%20branch%20out.%20I%20told%20her%20I%20already%20have%20too%20many%20merge%20conflicts.)
 
 <div align="center">
 
